@@ -1,0 +1,1444 @@
+Fri Sep 02 16:05:10 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 02 16:05:27 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 02 16:15:04 IST 2016 938230030V login Registrar
+Fri Sep 02 16:16:18 IST 2016 938230030V User registration 948190702V
+Fri Sep 02 16:16:22 IST 2016 938230030V log out Registrar
+Fri Sep 02 16:16:54 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 02 16:24:34 IST 2016 948190702V Case Registration DHP-1-16
+Fri Sep 02 16:24:43 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 02 16:25:48 IST 2016 938164401V login Shroff
+Fri Sep 02 16:26:02 IST 2016 938164401V Stamp Duty payment DHP-1-16
+Fri Sep 02 16:26:08 IST 2016 938164401V log out Shroff
+Fri Sep 02 16:26:30 IST 2016 938230031V login subjectClerk
+Fri Sep 02 16:26:48 IST 2016 938230031V Summon printed DHP-1-16
+Fri Sep 02 16:27:02 IST 2016 938230031V St93atus of Fiscal summon DHP-1-16
+Fri Sep 02 16:27:08 IST 2016 938230031V log out subjectClerk
+Fri Sep 02 16:27:20 IST 2016 930650722V login courtclerk
+Fri Sep 09 16:28:36 IST 2016 930650722V Roll court-final judgement DHP-1-16
+Fri Sep 09 16:28:45 IST 2016 930650722V log out courtclerk
+Fri Sep 09 16:36:09 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 09 16:41:32 IST 2016 948190702V Case Registration DMR-1-16
+Fri Sep 09 16:41:37 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 09 16:41:51 IST 2016 938164401V login Shroff
+Fri Sep 09 16:42:03 IST 2016 938164401V Stamp Duty payment DMR-1-16
+Fri Sep 09 16:42:06 IST 2016 938164401V log out Shroff
+Fri Sep 09 16:42:19 IST 2016 938230030V login Registrar
+Fri Sep 09 16:42:23 IST 2016 938230030V log out Registrar
+Fri Sep 09 16:42:35 IST 2016 938230031V login subjectClerk
+Fri Sep 02 16:43:34 IST 2016 938230031V login subjectClerk
+Fri Sep 02 16:43:45 IST 2016 938230031V Summon printed DMR-1-16
+Fri Sep 02 16:44:26 IST 2016 938230031V Status of Fiscal summon DMR-1-16
+Fri Sep 02 16:44:36 IST 2016 938230031V DS summon printed DMR-1-16
+Fri Sep 02 16:44:39 IST 2016 938230031V log out subjectClerk
+Fri Sep 02 16:44:51 IST 2016 930650722V login courtclerk
+Fri Sep 09 16:47:18 IST 2016 930650722V Roll court-next hearing date recorded DMR-1-16
+Fri Sep 09 16:47:26 IST 2016 930650722V log out courtclerk
+Fri Sep 16 16:47:37 IST 2016 930650722V login courtclerk
+Fri Sep 16 16:47:45 IST 2016 930650722V log out courtclerk
+Fri Sep 16 16:48:16 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 16:53:41 IST 2016 948190702V Case Registration DMS-1-16
+Fri Sep 16 16:53:47 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 16:53:58 IST 2016 938164401V login Shroff
+Fri Sep 16 16:54:04 IST 2016 938164401V Stamp Duty payment DMS-1-16
+Fri Sep 16 16:54:06 IST 2016 938164401V log out Shroff
+Fri Sep 16 16:54:19 IST 2016 938230031V login subjectClerk
+Fri Sep 16 16:54:30 IST 2016 938230031V log out subjectClerk
+Fri Sep 02 16:54:41 IST 2016 938230031V login subjectClerk
+Fri Sep 02 16:54:53 IST 2016 938230031V Summon printed DMS-1-16
+Fri Sep 02 16:55:00 IST 2016 938230031V Status of Fiscal summon DMS-1-16
+Fri Sep 02 16:55:04 IST 2016 938230031V log out subjectClerk
+Fri Sep 02 16:55:16 IST 2016 930650722V login courtclerk
+Fri Sep 09 16:55:57 IST 2016 930650722V Ex-parte judgement recorded DMS-1-16
+Fri Sep 09 16:56:02 IST 2016 930650722V log out courtclerk
+Fri Sep 09 16:56:14 IST 2016 948140640V login subjectClerk
+Fri Sep 09 16:56:22 IST 2016 948140640V Decree printed DMS-1-16
+Fri Sep 09 16:56:35 IST 2016 948140640V Decree issued date recorded DMS-1-16
+Fri Sep 09 16:56:40 IST 2016 948140640V log out subjectClerk
+Fri Sep 09 16:59:23 IST 2016 932350360V login subjectClerk
+Fri Sep 09 17:00:21 IST 2016 932350360V log out subjectClerk
+Fri Sep 09 17:00:33 IST 2016 932350360V login subjectClerk
+Fri Sep 09 17:54:05 IST 2016 932350360V log out subjectClerk
+Fri Sep 09 17:54:13 IST 2016 932350360V login subjectClerk
+Fri Sep 09 17:54:44 IST 2016 932350360V log out subjectClerk
+Fri Sep 09 17:54:49 IST 2016 932350360V login subjectClerk
+Fri Sep 09 17:54:56 IST 2016 932350360V log out subjectClerk
+Thu May 24 18:55:03 IST 2012 938230030V login Registrar
+Sat Sep 03 09:50:46 IST 2016 938230030V User registration 948190702V
+Sat Sep 03 09:51:03 IST 2016 938230030V log out Registrar
+Sat Sep 03 09:51:47 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 03 09:56:39 IST 2016 948190702V Case Registration DHP-2-16
+Sat Sep 03 09:56:44 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 03 09:57:34 IST 2016 938164401V login Shroff
+Sat Sep 03 09:57:54 IST 2016 938164401V Stamp Duty payment DHP-2-16
+Sat Sep 03 09:58:21 IST 2016 938164401V log out Shroff
+Sat Sep 03 09:58:45 IST 2016 938230031V login subjectClerk
+Sat Sep 03 09:59:35 IST 2016 938230031V Summon printed DHP-2-16
+Sat Sep 03 10:01:06 IST 2016 938230031V Status of Fiscal summon DHP-2-16
+Sat Sep 03 10:03:22 IST 2016 938230031V log out subjectClerk
+Sat Sep 03 10:26:00 IST 2016 938230030V login Registrar
+Sat Sep 03 10:27:55 IST 2016 938230030V User registration 948190701V
+Sat Sep 03 10:39:08 IST 2016 930650722V login courtclerk
+Sat Sep 10 10:41:09 IST 2016 930650722V Roll court-final judgement DHP-2-16
+Sat Sep 10 10:42:11 IST 2016 930650722V log out courtclerk
+Sat Sep 10 10:48:40 IST 2016 null login courtclerk
+Sat Sep 10 11:44:20 IST 2016 948140640V login subjectClerk
+Sat Sep 10 11:44:32 IST 2016 948140640V log out subjectClerk
+Sat Sep 10 11:44:40 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 10 11:46:52 IST 2016 948190702V Case Registration DHP-3-16
+Sat Sep 10 11:46:54 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 10 11:47:05 IST 2016 938164401V login Shroff
+Sat Sep 10 11:47:09 IST 2016 938164401V Stamp Duty payment DHP-3-16
+Sat Sep 10 11:47:12 IST 2016 938164401V log out Shroff
+Sat Sep 10 11:47:29 IST 2016 938230031V login subjectClerk
+Sat Sep 10 11:47:44 IST 2016 938230031V Summon printed DHP-3-16
+Sat Sep 10 11:47:50 IST 2016 938230031V Status of Fiscal summon DHP-3-16
+Sat Sep 10 11:47:52 IST 2016 938230031V log out subjectClerk
+Sat Sep 10 11:48:02 IST 2016 930650722V login courtclerk
+Sat Sep 17 11:48:44 IST 2016 930650722V Ex-parte judgement recorded DHP-3-16
+Sat Sep 17 11:48:48 IST 2016 930650722V log out courtclerk
+Sat Sep 17 11:49:29 IST 2016 948140640V login subjectClerk
+Sat Sep 17 11:49:56 IST 2016 948140640V Decree printed DHP-3-16
+Sat Sep 17 11:50:23 IST 2016 948140640V Decree issued date recorded DHP-3-16
+Sat Sep 17 11:50:33 IST 2016 948140640V log out subjectClerk
+Sat Sep 17 11:54:20 IST 2016 null login subjectClerk
+Sat Sep 17 12:40:32 IST 2016 932350360V login subjectClerk
+Sat Sep 17 12:41:27 IST 2016 932350360V log out subjectClerk
+Sat Sep 17 12:41:39 IST 2016 932350360V login subjectClerk
+Sat Sep 17 12:42:27 IST 2016 932350360V log out subjectClerk
+Sat Sep 17 12:45:51 IST 2016 null login RecordRoomClerk
+Sat Sep 17 12:51:09 IST 2016 932350360V login subjectClerk
+Sat Sep 17 13:55:30 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 13:55:49 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 13:56:01 IST 2016 930650722V login courtclerk
+Sat Sep 17 13:56:40 IST 2016 930650722V log out courtclerk
+Sat Sep 17 14:27:30 IST 2016 932350360V log out subjectClerk
+Sat Sep 17 14:27:38 IST 2016 932350360V login subjectClerk
+Sat Sep 17 15:49:46 IST 2016 938164401V login Shroff
+Sat Sep 17 15:50:22 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 15:52:03 IST 2016 948190702V Case Registration DHP-4-16
+Sat Sep 17 15:52:09 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 15:52:16 IST 2016 938164401V login Shroff
+Sat Sep 17 15:52:37 IST 2016 938164401V Stamp Duty payment DHP-4-16
+Sat Sep 17 15:52:43 IST 2016 938164401V log out Shroff
+Sat Sep 17 15:54:22 IST 2016 938164401V login Shroff
+Sat Sep 17 15:54:29 IST 2016 938164401V log out Shroff
+Sat Sep 17 15:58:28 IST 2016 null login RecordRoomClerk
+Sat Sep 17 16:00:30 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 16:04:04 IST 2016 948190702V Case Registration DMS-2-16
+Sat Sep 17 16:04:09 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 16:04:30 IST 2016 938164401V login Shroff
+Sat Sep 17 16:04:34 IST 2016 938164401V Stamp Duty payment DMS-2-16
+Sat Sep 17 16:04:36 IST 2016 938164401V log out Shroff
+Sat Sep 17 16:04:49 IST 2016 938230031V login subjectClerk
+Sat Sep 17 16:05:02 IST 2016 938230031V Summon printed DHP-4-16
+Sat Sep 17 16:05:08 IST 2016 938230031V Summon printed DMS-2-16
+Sat Sep 17 16:05:14 IST 2016 938230031V Status of Fiscal summon DHP-4-16
+Sat Sep 17 16:05:19 IST 2016 938230031V Status of Fiscal summon DMS-2-16
+Sat Sep 17 16:05:22 IST 2016 938230031V log out subjectClerk
+Sat Sep 24 16:05:40 IST 2016 930650722V login courtclerk
+Sat Sep 24 16:06:16 IST 2016 930650722V Ex-parte judgement recorded DHP-4-16
+Sat Sep 24 16:06:36 IST 2016 930650722V Ex-parte judgement recorded DMS-2-16
+Sat Sep 24 16:06:39 IST 2016 930650722V log out courtclerk
+Sat Sep 24 16:07:15 IST 2016 948140640V login subjectClerk
+Sat Sep 24 16:07:40 IST 2016 948140640V Decree printed DHP-4-16
+Sat Sep 24 16:07:50 IST 2016 948140640V log out subjectClerk
+Sat Sep 24 16:08:11 IST 2016 948140640V login subjectClerk
+Sat Sep 24 16:08:33 IST 2016 948140640V Decree printed DMS-2-16
+Sat Sep 24 16:09:42 IST 2016 948140640V log out subjectClerk
+Thu May 24 00:04:01 IST 2012 948190702V login RecordRoomClerk
+Thu May 24 00:04:08 IST 2012 948190702V log out RecordRoomClerk
+Thu May 24 00:19:20 IST 2012 938230030V login Registrar
+Thu May 24 00:20:02 IST 2012 938230030V log out Registrar
+Thu May 24 00:20:15 IST 2012 938230030V login Registrar
+Thu May 24 00:21:05 IST 2012 938230030V User registration 948190702V
+Thu May 24 00:21:10 IST 2012 938230030V log out Registrar
+Thu May 24 00:21:48 IST 2012 948190702V login RecordRoomClerk
+Thu May 24 00:26:05 IST 2012 948190702V Case Registration DDR-1-12
+Thu May 24 00:26:11 IST 2012 948190702V log out RecordRoomClerk
+Thu May 24 00:26:28 IST 2012 938164401V login Shroff
+Thu May 24 00:27:01 IST 2012 938164401V Stamp Duty payment DDR-1-12
+Thu May 24 00:27:15 IST 2012 938164401V log out Shroff
+Thu May 24 00:27:38 IST 2012 938230031V login subjectClerk
+Sun Sep 04 10:21:00 IST 2016 938230031V Summon printed DDR-1-12
+Sun Sep 04 10:21:49 IST 2016 938230031V Status of Fiscal summon DDR-1-12
+Sun Sep 04 10:25:12 IST 2016 938230031V log out subjectClerk
+Sun Sep 11 10:28:53 IST 2016 930650722V login courtclerk
+Sun Sep 11 10:32:56 IST 2016 930650722V log out courtclerk
+Sun Sep 11 10:33:40 IST 2016 932350360V login subjectClerk
+Sun Sep 11 10:35:59 IST 2016 932350360V log out subjectClerk
+Sun Sep 11 10:36:15 IST 2016 932350360V login subjectClerk
+Sun Sep 11 10:37:35 IST 2016 932350360V log out subjectClerk
+Sun Sep 11 10:38:01 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 11 10:40:16 IST 2016 948190702V Case Registration DMB-1-16
+Sun Sep 11 10:42:48 IST 2016 948190702V Case Registration DMS-3-16
+Sun Sep 11 10:44:39 IST 2016 948190702V Case Registration DHP-5-16
+Sun Sep 11 10:44:46 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 11 10:49:43 IST 2016 938230030V login Registrar
+Sun Sep 11 10:51:16 IST 2016 938230030V User registration 948190702V
+Sun Sep 11 10:51:24 IST 2016 938230030V log out Registrar
+Sun Sep 11 10:52:13 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 11 10:54:11 IST 2016 948190702V Case Registration DMR-2-16
+Sun Sep 11 10:54:19 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 11 10:54:53 IST 2016 938164401V login Shroff
+Sun Sep 11 10:55:28 IST 2016 938164401V Stamp Duty payment DHP-5-16
+Sun Sep 11 10:55:35 IST 2016 938164401V log out Shroff
+Sun Sep 11 10:56:08 IST 2016 938230031V login subjectClerk
+Sun Sep 11 10:57:11 IST 2016 938230031V Summon printed DHP-5-16
+Sun Sep 11 10:58:10 IST 2016 938230031V Status of Fiscal summon DHP-5-16
+Sun Sep 11 10:58:44 IST 2016 938230031V log out subjectClerk
+Sun Sep 11 10:58:58 IST 2016 938164401V login Shroff
+Sun Sep 11 10:59:02 IST 2016 938164401V Stamp Duty payment DMB-1-16
+Sun Sep 11 10:59:06 IST 2016 938164401V Stamp Duty payment DMR-2-16
+Sun Sep 11 10:59:10 IST 2016 938164401V Stamp Duty payment DMS-3-16
+Sun Sep 11 10:59:32 IST 2016 938164401V log out Shroff
+Sun Sep 11 11:00:09 IST 2016 938230031v login subjectClerk
+Sun Sep 11 11:01:56 IST 2016 938230031v Summon printed DMB-1-16
+Sun Sep 11 11:02:34 IST 2016 938230031v Summon printed DMR-2-16
+Sun Sep 11 11:03:14 IST 2016 938230031v Status of Fiscal summon DMB-1-16
+Sun Sep 11 11:03:33 IST 2016 938230031v Status of Fiscal summon DMR-2-16
+Sun Sep 11 11:04:26 IST 2016 938230031v DS summon printed DMR-2-16
+Sun Sep 11 11:04:31 IST 2016 938230031v log out subjectClerk
+Sun Sep 18 11:05:09 IST 2016 930650722v login courtclerk
+Sun Sep 18 11:06:16 IST 2016 930650722v Roll court-final judgement DHP-5-16
+Sun Sep 18 11:07:22 IST 2016 930650722v Roll court-next hearing date recorded DMB-1-16
+Sun Sep 18 11:08:12 IST 2016 930650722v Ex-parte judgement recorded DMR-2-16
+Sun Sep 18 11:08:25 IST 2016 930650722v log out courtclerk
+Sun Sep 18 11:10:20 IST 2016 932350360V login subjectClerk
+Sun Sep 18 11:17:28 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 11:17:44 IST 2016 932350360V login subjectClerk
+Sun Sep 18 11:21:52 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 11:22:09 IST 2016 932350360V login subjectClerk
+Sun Sep 18 11:24:36 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 11:24:55 IST 2016 932350360V login subjectClerk
+Sun Sep 18 11:28:54 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 11:29:02 IST 2016 930650722V login courtclerk
+Sun Sep 18 11:29:10 IST 2016 930650722V log out courtclerk
+Sun Sep 18 11:29:17 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 18 11:32:49 IST 2016 948190702V Case Registration DMS-4-16
+Sun Sep 18 11:34:36 IST 2016 948190702V Case Registration DHP-6-16
+Sun Sep 18 11:36:33 IST 2016 948190702V Case Registration DMS-5-16
+Sun Sep 18 11:36:37 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 18 11:36:46 IST 2016 938164401V login Shroff
+Sun Sep 18 11:36:50 IST 2016 938164401V Stamp Duty payment DHP-6-16
+Sun Sep 18 11:36:54 IST 2016 938164401V Stamp Duty payment DMS-4-16
+Sun Sep 18 11:36:57 IST 2016 938164401V Stamp Duty payment DMS-5-16
+Sun Sep 18 11:37:04 IST 2016 938164401V log out Shroff
+Sun Sep 18 11:37:18 IST 2016 938230031V login subjectClerk
+Sun Sep 04 11:37:42 IST 2016 938230031V Summon printed DHP-6-16
+Sun Sep 04 11:37:56 IST 2016 938230031V Summon printed DMS-3-16
+Sun Sep 04 11:38:06 IST 2016 938230031V Summon printed DMS-4-16
+Sun Sep 04 11:38:35 IST 2016 938230031V Status of Fiscal summon DHP-6-16
+Sun Sep 04 11:38:51 IST 2016 938230031V log out subjectClerk
+Sun Sep 04 11:39:01 IST 2016 930650722V login courtclerk
+Sun Sep 18 11:39:17 IST 2016 930650722V log out courtclerk
+Sun Sep 04 11:51:17 IST 2016 938230030V login Registrar
+Sun Sep 04 11:51:19 IST 2016 938230030V log out Registrar
+Sun Sep 04 11:51:38 IST 2016 938230030v login Registrar
+Sun Sep 04 11:52:54 IST 2016 938230030v User registration 948190702V
+Sun Sep 04 11:53:02 IST 2016 938230030v log out Registrar
+Sun Sep 04 11:53:44 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 04 11:55:42 IST 2016 948190702V Case Registration DMS-6-16
+Sun Sep 04 11:55:52 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 04 11:56:14 IST 2016 938164401V login Shroff
+Sun Sep 04 11:57:11 IST 2016 938164401V Stamp Duty payment DMS-6-16
+Sun Sep 04 11:57:18 IST 2016 938164401V log out Shroff
+Sun Sep 04 11:57:48 IST 2016 938230031v login subjectClerk
+Sun Sep 04 11:58:30 IST 2016 938230031v Summon printed DMS-5-16
+Sun Sep 04 11:58:55 IST 2016 938230031v Summon printed DMS-6-16
+Sun Sep 04 11:59:31 IST 2016 938230031v Status of Fiscal summon DMS-3-16
+Sun Sep 04 11:59:53 IST 2016 938230031v Status of Fiscal summon DMS-4-16
+Sun Sep 04 12:00:42 IST 2016 938230031v DS summon printed DMS-4-16
+Sun Sep 04 12:00:48 IST 2016 938230031v log out subjectClerk
+Sun Sep 18 12:01:17 IST 2016 930650722v login courtclerk
+Sun Sep 18 12:02:08 IST 2016 930650722v Roll court-final judgement DHP-6-16
+Sun Sep 18 12:02:50 IST 2016 930650722v Roll court-next hearing date recorded DMS-3-16
+Sun Sep 18 12:03:29 IST 2016 930650722v Ex-parte judgement recorded DMS-4-16
+Sun Sep 18 12:03:35 IST 2016 930650722v log out courtclerk
+Sun Sep 18 12:04:28 IST 2016 932350360V login subjectClerk
+Sun Sep 18 12:06:17 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 12:06:28 IST 2016 932350360V login subjectClerk
+Sun Sep 18 12:09:19 IST 2016 932350360V log out subjectClerk
+Wed Sep 07 05:37:55 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 05:38:13 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 05:58:40 IST 2016 938164401V login Shroff
+Wed Sep 07 05:58:45 IST 2016 938164401V log out Shroff
+Wed Sep 07 05:58:51 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 06:00:51 IST 2016 948190702V Case Registration DHP-7-16
+Wed Sep 07 06:00:53 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 06:00:58 IST 2016 938164401V login Shroff
+Wed Sep 07 06:01:07 IST 2016 938164401V Stamp Duty payment DHP-7-16
+Wed Sep 07 06:03:12 IST 2016 938164401V log out Shroff
+Wed Sep 07 06:03:18 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 06:04:52 IST 2016 948190702V Case Registration DMR-3-16
+Wed Sep 07 06:04:54 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 06:05:17 IST 2016 938164401V login Shroff
+Wed Sep 07 06:05:22 IST 2016 938164401V Stamp Duty payment DMR-3-16
+Wed Sep 07 06:06:36 IST 2016 938164401V log out Shroff
+Wed Sep 07 06:06:55 IST 2016 938230031V login subjectClerk
+Wed Sep 07 06:06:59 IST 2016 938230031V log out subjectClerk
+Wed Sep 07 06:08:07 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 06:09:23 IST 2016 948190702V Case Registration DMS-7-16
+Wed Sep 07 06:09:26 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 06:09:41 IST 2016 938164401V login Shroff
+Wed Sep 07 06:09:45 IST 2016 938164401V Stamp Duty payment DMS-7-16
+Wed Sep 07 06:12:45 IST 2016 938164401V login Shroff
+Wed Sep 07 06:12:52 IST 2016 938164401V Stamp Duty payment DMS-7-16
+Wed Sep 07 06:20:53 IST 2016 938164401V login Shroff
+Wed Sep 07 06:21:02 IST 2016 938164401V Stamp Duty payment DMS-7-16
+Wed Sep 07 06:24:33 IST 2016 938164401V log out Shroff
+Wed Sep 07 06:26:17 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 06:28:47 IST 2016 948190702V Case Registration DMS-8-16
+Wed Sep 07 06:28:49 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 06:29:05 IST 2016 938164401V login Shroff
+Wed Sep 07 06:29:13 IST 2016 938164401V Stamp Duty payment DMS-8-16
+Wed Sep 07 06:29:24 IST 2016 938164401V log out Shroff
+Wed Sep 07 06:29:35 IST 2016 938230031V login subjectClerk
+Wed Sep 07 06:30:02 IST 2016 938230031V log out subjectClerk
+Wed Sep 07 07:15:23 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 07:16:36 IST 2016 948190702V Case Registration DHP-8-16
+Wed Sep 07 07:16:38 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 07:16:51 IST 2016 938164401V login Shroff
+Wed Sep 07 07:16:56 IST 2016 938164401V Stamp Duty payment DHP-8-16
+Wed Sep 07 07:17:08 IST 2016 938164401V log out Shroff
+Thu May 24 00:04:40 IST 2012 938230030v login Registrar
+Thu May 24 00:05:50 IST 2012 938230030v User registration 948190702v
+Thu May 24 00:05:58 IST 2012 938230030v log out Registrar
+Thu May 24 00:06:28 IST 2012 948190702V login RecordRoomClerk
+Thu May 24 00:07:53 IST 2012 948190702V Case Registration DMS-1-12
+Thu May 24 00:08:03 IST 2012 948190702V log out RecordRoomClerk
+Thu May 24 00:08:30 IST 2012 938164401V login Shroff
+Thu May 24 00:09:23 IST 2012 938164401V Stamp Duty payment DMS-1-12
+Thu May 24 00:09:49 IST 2012 938164401V log out Shroff
+Thu May 24 00:10:14 IST 2012 938230031v login subjectClerk
+Tue May 24 09:31:03 IST 2016 938230031v log out subjectClerk
+Tue May 24 09:31:14 IST 2016 938230031v login subjectClerk
+Wed Sep 07 09:31:45 IST 2016 938230031v log out subjectClerk
+Wed Sep 07 09:31:54 IST 2016 938230031v login subjectClerk
+Wed Sep 07 09:32:39 IST 2016 938230031v Summon printed DHP-7-16
+Wed Sep 07 09:33:28 IST 2016 938230031v Status of Fiscal summon DHP-7-16
+Wed Sep 07 09:33:52 IST 2016 938230031v Status of Fiscal summon DMS-5-16
+Wed Sep 07 09:34:38 IST 2016 938230031v DS summon printed DMS-5-16
+Wed Sep 07 09:34:46 IST 2016 938230031v log out subjectClerk
+Sun Sep 18 09:35:22 IST 2016 930650722v login courtclerk
+Sun Sep 18 09:36:19 IST 2016 930650722v Roll court-final judgement DHP-7-16
+Sun Sep 18 09:36:53 IST 2016 930650722v Ex-parte judgement recorded DMS-5-16
+Sun Sep 18 09:37:08 IST 2016 930650722v log out courtclerk
+Sun Sep 18 09:37:29 IST 2016 948140640V login subjectClerk
+Sun Sep 18 09:37:57 IST 2016 948140640V Decree printed DMR-2-16
+Sun Sep 18 09:39:13 IST 2016 948140640V Decree issued date recorded DHP-4-16
+Sun Sep 18 09:39:23 IST 2016 948140640V log out subjectClerk
+Sun Sep 18 09:40:27 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 08 09:41:59 IST 2016 948190702V Case Registration DHP-9-16
+Thu Sep 08 09:44:14 IST 2016 948190702V Case Registration DMR-4-16
+Thu Sep 08 09:44:17 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 08 09:45:10 IST 2016 938230030v login Registrar
+Thu Sep 08 09:46:08 IST 2016 938230030v User registration 948190702v
+Thu Sep 08 09:46:14 IST 2016 938230030v log out Registrar
+Thu Sep 08 09:46:47 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 08 09:48:03 IST 2016 948190702V Case Registration DMS-9-16
+Thu Sep 08 09:48:09 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 08 09:48:26 IST 2016 938164401v login Shroff
+Thu Sep 08 09:49:16 IST 2016 938164401v Stamp Duty payment DHP-9-16
+Thu Sep 08 09:49:40 IST 2016 938164401v log out Shroff
+Thu Sep 08 09:50:01 IST 2016 938230031v login subjectClerk
+Thu Sep 08 09:50:51 IST 2016 938230031v Summon printed DHP-8-16
+Thu Sep 08 09:51:31 IST 2016 938230031v Status of Fiscal summon DHP-8-16
+Thu Sep 08 09:51:53 IST 2016 938230031v Status of Fiscal summon DMS-6-16
+Thu Sep 08 09:52:38 IST 2016 938230031v DS summon printed DMS-6-16
+Thu Sep 08 09:52:44 IST 2016 938230031v log out subjectClerk
+Sun Sep 18 09:53:06 IST 2016 930650722v login courtclerk
+Sun Sep 18 09:53:58 IST 2016 930650722v Roll court-final judgement DHP-8-16
+Sun Sep 18 09:54:30 IST 2016 930650722v Ex-parte judgement recorded DMS-6-16
+Sun Sep 18 09:54:36 IST 2016 930650722v log out courtclerk
+Sun Sep 18 09:54:53 IST 2016 948140640V login subjectClerk
+Sun Sep 18 09:55:16 IST 2016 948140640V Decree printed DMS-4-16
+Sun Sep 18 09:56:07 IST 2016 948140640V Decree issued date recorded DMR-2-16
+Sun Sep 18 09:56:12 IST 2016 948140640V log out subjectClerk
+Sun Sep 18 11:58:01 IST 2016 938230031V login subjectClerk
+Thu Sep 08 11:58:34 IST 2016 938230031V Summon printed DHP-9-16
+Thu Sep 08 11:58:40 IST 2016 938230031V Summon printed DMR-3-16
+Thu Sep 08 11:58:54 IST 2016 938230031V Status of Fiscal summon DHP-9-16
+Thu Sep 08 11:59:00 IST 2016 938230031V Status of Fiscal summon DMR-3-16
+Thu Sep 08 11:59:05 IST 2016 938230031V log out subjectClerk
+Thu Sep 08 11:59:53 IST 2016 932350360V login subjectClerk
+Thu Sep 08 12:01:05 IST 2016 932350360V log out subjectClerk
+Thu Sep 08 12:01:17 IST 2016 932350360V login subjectClerk
+Wed Sep 07 12:15:16 IST 2016 938230030v login Registrar
+Wed Sep 07 12:17:05 IST 2016 938230030v User registration 948190702v
+Wed Sep 07 12:17:13 IST 2016 938230030v log out Registrar
+Wed Sep 07 12:19:36 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 07 12:23:43 IST 2016 948190702V Case Registration DMR-5-16
+Wed Sep 07 12:23:55 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 07 12:24:11 IST 2016 938164401v login Shroff
+Wed Sep 07 12:25:20 IST 2016 938164401v Stamp Duty payment DMR-4-16
+Wed Sep 07 12:26:19 IST 2016 938164401v log out Shroff
+Wed Sep 07 12:27:24 IST 2016 938230031v login subjectClerk
+Wed Sep 07 12:29:33 IST 2016 938230031v Summon printed DMR-4-16
+Wed Sep 07 12:29:54 IST 2016 938230031v Summon printed DMS-1-12
+Wed Sep 07 12:31:14 IST 2016 938230031v Status of Fiscal summon DMR-4-16
+Wed Sep 07 12:31:30 IST 2016 938230031v Status of Fiscal summon DMS-1-12
+Wed Sep 07 12:33:16 IST 2016 938230031v DS summon printed DMS-1-12
+Wed Sep 07 12:33:21 IST 2016 938230031v log out subjectClerk
+Sun Sep 18 12:33:49 IST 2016 930650722v login courtclerk
+Sun Sep 18 12:35:38 IST 2016 930650722v Roll court-final judgement DHP-9-16
+Sun Sep 18 12:36:14 IST 2016 930650722v Ex-parte judgement recorded DMR-3-16
+Sun Sep 18 12:36:57 IST 2016 930650722v Roll court-next hearing date recorded DMR-4-16
+Sun Sep 18 12:38:04 IST 2016 930650722v log out courtclerk
+Sun Sep 18 12:38:23 IST 2016 948140640V login subjectClerk
+Sun Sep 18 12:38:51 IST 2016 948140640V Decree printed DMR-3-16
+Sun Sep 18 12:39:31 IST 2016 948140640V Decree issued date recorded DMR-3-16
+Sun Sep 18 12:39:36 IST 2016 948140640V log out subjectClerk
+Sun Sep 18 12:42:05 IST 2016 932350360V login subjectClerk
+Sun Sep 18 12:43:52 IST 2016 932350360V log out subjectClerk
+Sun Sep 18 12:44:02 IST 2016 932350360V login subjectClerk
+Sun Sep 18 14:10:01 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 09 14:49:46 IST 2016 null login RecordRoomClerk
+Fri Sep 09 14:50:33 IST 2016 null login RecordRoomClerk
+Fri Sep 09 14:51:14 IST 2016 null login RecordRoomClerk
+Fri Sep 09 14:54:01 IST 2016 null login RecordRoomClerk
+Fri Sep 09 14:57:26 IST 2016 null login RecordRoomClerk
+Fri Sep 09 15:00:28 IST 2016 null login RecordRoomClerk
+Fri Sep 09 15:03:28 IST 2016 null login subjectClerk
+Fri Sep 09 15:04:27 IST 2016 null log out subjectClerk
+Fri Sep 09 15:08:24 IST 2016 null login Registrar
+Thu May 24 00:07:10 IST 2012 null login RecordRoomClerk
+Thu May 24 00:07:39 IST 2012 null login RecordRoomClerk
+Thu May 24 00:08:33 IST 2012 null login RecordRoomClerk
+Thu May 24 18:32:22 IST 2012 null login RecordRoomClerk
+Sun Sep 18 18:33:39 IST 2016 null login courtclerk
+Sun Sep 18 18:34:22 IST 2016 null login subjectClerk
+Sun Sep 18 18:34:38 IST 2016 null log out subjectClerk
+Sun Sep 18 18:34:49 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 18 18:37:33 IST 2016 948190702V Case Registration DMS-10-16
+Sun Sep 18 18:37:41 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 18 18:38:30 IST 2016 938164401V login Shroff
+Sun Sep 18 18:38:42 IST 2016 938164401V Stamp Duty payment DMR-5-16
+Sun Sep 18 18:39:05 IST 2016 938164401V Stamp Duty payment DMS-10-16
+Sun Sep 18 18:39:12 IST 2016 938164401V log out Shroff
+Sun Sep 18 18:39:23 IST 2016 938230030V login Registrar
+Sun Sep 18 18:39:32 IST 2016 938230030V log out Registrar
+Sun Sep 18 18:39:39 IST 2016 938230031V login subjectClerk
+Sun Sep 11 18:40:00 IST 2016 938230031V Summon printed DMR-5-16
+Sun Sep 11 18:40:05 IST 2016 938230031V Summon printed DMS-10-16
+Sun Sep 11 18:40:11 IST 2016 938230031V Summon printed DMS-7-16
+Sun Sep 11 18:40:18 IST 2016 938230031V Status of Fiscal summon DMR-5-16
+Sun Sep 11 18:40:22 IST 2016 938230031V Status of Fiscal summon DMS-10-16
+Sun Sep 11 18:40:27 IST 2016 938230031V Status of Fiscal summon DMS-7-16
+Sun Sep 11 18:40:29 IST 2016 938230031V log out subjectClerk
+Sun Sep 18 18:40:48 IST 2016 930650722V login courtclerk
+Sun Sep 18 18:41:20 IST 2016 930650722V log out courtclerk
+Sun Sep 11 18:54:54 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 11 18:55:32 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 11 18:55:48 IST 2016 938230030V login Registrar
+Sun Sep 11 19:00:36 IST 2016 938230030V User registration 948190702V
+Sun Sep 11 19:00:41 IST 2016 938230030V log out Registrar
+Sun Sep 11 19:02:12 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 11 19:16:13 IST 2016 948190702V Case Registration DHP-10-16
+Wed Sep 14 09:36:07 IST 2016 938230030v login Registrar
+Wed Sep 14 09:37:21 IST 2016 938230030v User registration 948190702v
+Wed Sep 14 09:38:04 IST 2016 938230030v log out Registrar
+Wed Sep 14 09:38:43 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 14 09:41:19 IST 2016 948190702V Case Registration DMB-2-16
+Wed Sep 14 09:41:28 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 14 09:41:42 IST 2016 938164401v login Shroff
+Wed Sep 14 09:42:21 IST 2016 938164401v Stamp Duty payment DHP-10-16
+Wed Sep 14 09:42:39 IST 2016 938164401v log out Shroff
+Wed Sep 14 09:42:53 IST 2016 938164401v login Shroff
+Wed Sep 14 09:43:03 IST 2016 938164401v Stamp Duty payment DMB-2-16
+Wed Sep 14 09:43:12 IST 2016 938164401v Stamp Duty payment DMS-9-16
+Wed Sep 14 09:43:18 IST 2016 938164401v log out Shroff
+Wed Sep 14 09:43:40 IST 2016 938230031v login subjectClerk
+Wed Sep 14 09:44:31 IST 2016 938230031v Summon printed DHP-10-16
+Wed Sep 14 09:44:50 IST 2016 938230031v Summon printed DMB-2-16
+Wed Sep 14 09:45:34 IST 2016 938230031v Status of Fiscal summon DHP-10-16
+Wed Sep 14 09:46:42 IST 2016 938230031v Status of Fiscal summon DMB-2-16
+Wed Sep 14 09:47:16 IST 2016 938230031v DS summon printed DMB-2-16
+Wed Sep 14 09:47:41 IST 2016 938230031v Summon printed DMS-8-16
+Wed Sep 14 09:47:49 IST 2016 938230031v Summon printed DMS-9-16
+Wed Sep 14 09:47:55 IST 2016 938230031v Status of Fiscal summon DMS-8-16
+Wed Sep 14 09:47:59 IST 2016 938230031v Status of Fiscal summon DMS-9-16
+Wed Sep 14 09:48:02 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 09:48:30 IST 2016 930650722v login courtclerk
+Fri Sep 30 09:49:13 IST 2016 930650722v Roll court-final judgement DHP-10-16
+Fri Sep 30 09:49:48 IST 2016 930650722v Ex-parte judgement recorded DMB-2-16
+Fri Sep 30 09:50:24 IST 2016 930650722v Roll court-next hearing date recorded DMS-8-16
+Fri Sep 30 09:50:30 IST 2016 930650722v log out courtclerk
+Fri Sep 30 09:50:46 IST 2016 948140640V login subjectClerk
+Fri Sep 30 09:51:12 IST 2016 948140640V Decree printed DMB-2-16
+Fri Sep 30 09:52:12 IST 2016 948140640V Decree issued date recorded DMB-2-16
+Fri Sep 30 09:52:20 IST 2016 948140640V log out subjectClerk
+Fri Sep 30 09:52:49 IST 2016 932350360v login subjectClerk
+Fri Sep 30 09:54:12 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 09:54:24 IST 2016 932350360v login subjectClerk
+Fri Sep 30 09:54:31 IST 2016 932350360v log out subjectClerk
+Thu Sep 15 05:07:05 IST 2016 938230030V login Registrar
+Thu Sep 15 05:08:06 IST 2016 938230030V User registration 948190702V
+Thu Sep 15 05:08:13 IST 2016 938230030V log out Registrar
+Thu Sep 15 05:08:58 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 05:11:06 IST 2016 948190702V Case Registration DDR-1-16
+Thu Sep 15 05:11:11 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 05:11:26 IST 2016 938164401V login Shroff
+Thu Sep 15 05:11:59 IST 2016 938164401V Stamp Duty payment DDR-1-16
+Thu Sep 15 05:12:13 IST 2016 938164401V log out Shroff
+Thu Sep 15 05:12:28 IST 2016 938230031V login subjectClerk
+Thu Sep 15 05:13:06 IST 2016 938230031V Summon printed DDR-1-16
+Thu Sep 15 05:13:31 IST 2016 938230031V Status of Fiscal summon DDR-1-16
+Thu Sep 15 05:14:26 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 05:14:48 IST 2016 930650722V login courtclerk
+Fri Sep 30 05:15:32 IST 2016 930650722V Roll court-final judgement DDR-1-16
+Fri Sep 30 05:16:02 IST 2016 930650722V Ex-parte judgement recorded DMS-9-16
+Fri Sep 30 05:16:29 IST 2016 930650722V log out courtclerk
+Fri Sep 30 05:16:43 IST 2016 948140640V login subjectClerk
+Fri Sep 30 05:17:15 IST 2016 948140640V Decree printed DMS-5-16
+Fri Sep 30 05:17:47 IST 2016 948140640V Decree issued date recorded DMS-2-16
+Fri Sep 30 05:17:53 IST 2016 948140640V log out subjectClerk
+Fri Sep 30 05:18:05 IST 2016 932350360V login subjectClerk
+Fri Sep 30 05:19:06 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 05:19:26 IST 2016 932350360V login subjectClerk
+Fri Sep 30 05:20:46 IST 2016 932350360V log out subjectClerk
+Thu May 24 00:11:42 IST 2012 938230030v login Registrar
+Thu May 24 00:12:57 IST 2012 938230030v User registration 948190702v
+Thu May 24 00:13:04 IST 2012 938230030v log out Registrar
+Thu May 24 00:13:48 IST 2012 948190702V login RecordRoomClerk
+Thu May 24 00:15:13 IST 2012 948190702V Case Registration DMR-1-12
+Thu May 24 00:15:20 IST 2012 948190702V log out RecordRoomClerk
+Thu May 24 00:15:35 IST 2012 938164401v login Shroff
+Thu May 24 00:16:02 IST 2012 938164401v Stamp Duty payment DMR-1-12
+Thu May 24 00:16:15 IST 2012 938164401v log out Shroff
+Thu May 24 00:16:31 IST 2012 938230031v login subjectClerk
+Thu Sep 15 09:24:11 IST 2016 938230031v log out subjectClerk
+Thu Sep 15 09:24:18 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 09:25:16 IST 2016 948190702V Case Registration DHP-11-16
+Thu Sep 15 09:25:53 IST 2016 948190702V Case Registration DHP-12-16
+Thu Sep 15 09:25:55 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 09:26:07 IST 2016 938164401V login Shroff
+Thu Sep 15 09:26:10 IST 2016 938164401V Stamp Duty payment DHP-11-16
+Thu Sep 15 09:26:16 IST 2016 938164401V Stamp Duty payment DHP-12-16
+Thu Sep 15 09:26:20 IST 2016 938164401V log out Shroff
+Thu Sep 15 09:26:36 IST 2016 938230031v login subjectClerk
+Thu Sep 15 09:27:14 IST 2016 938230031v Summon printed DHP-11-16
+Thu Sep 15 09:27:27 IST 2016 938230031v Summon printed DHP-12-16
+Thu Sep 15 09:28:04 IST 2016 938230031v Status of Fiscal summon DHP-11-16
+Thu Sep 15 09:28:25 IST 2016 938230031v Status of Fiscal summon DHP-12-16
+Thu Sep 15 09:28:51 IST 2016 938230031v DS summon printed DHP-12-16
+Thu Sep 15 09:28:59 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 09:29:23 IST 2016 930650722v login courtclerk
+Fri Sep 30 09:30:04 IST 2016 930650722v Roll court-final judgement DHP-11-16
+Fri Sep 30 09:30:35 IST 2016 930650722v Ex-parte judgement recorded DHP-12-16
+Fri Sep 30 09:30:42 IST 2016 930650722v log out courtclerk
+Fri Sep 30 09:31:01 IST 2016 948140640v login subjectClerk
+Fri Sep 30 09:31:26 IST 2016 948140640v Decree printed DHP-12-16
+Fri Sep 30 09:32:06 IST 2016 948140640v Decree issued date recorded DHP-12-16
+Fri Sep 30 09:32:12 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 09:32:30 IST 2016 932350360V  login subjectClerk
+Fri Sep 30 09:33:13 IST 2016 932350360V  log out subjectClerk
+Fri Sep 30 09:33:19 IST 2016 932350360V login subjectClerk
+Fri Sep 30 09:36:50 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 09:39:50 IST 2016 938230031V login subjectClerk
+Fri Sep 30 09:58:00 IST 2016 938230031V DS summon printed 
+Fri Sep 30 10:00:14 IST 2016 938230031V DS summon printed 
+Fri Sep 30 10:10:02 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 10:10:13 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 10:12:10 IST 2016 948190702V Case Registration DHP-13-16
+Fri Sep 30 10:12:19 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 10:12:29 IST 2016 938164401V login Shroff
+Fri Sep 30 10:12:34 IST 2016 938164401V Stamp Duty payment DHP-13-16
+Fri Sep 30 10:12:41 IST 2016 938164401V log out Shroff
+Thu Sep 15 10:18:31 IST 2016 938230030v login Registrar
+Thu Sep 15 10:19:31 IST 2016 938230030v User registration 948190702v
+Thu Sep 15 10:19:36 IST 2016 938230030v log out Registrar
+Thu Sep 15 10:20:07 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 10:21:23 IST 2016 948190702V Case Registration DDR-2-16
+Thu Sep 15 10:21:26 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 10:21:51 IST 2016 938164401v login Shroff
+Thu Sep 15 10:22:12 IST 2016 938164401v Stamp Duty payment DDR-2-16
+Thu Sep 15 10:22:25 IST 2016 938164401v log out Shroff
+Thu Sep 15 10:22:39 IST 2016 938230031v login subjectClerk
+Thu Sep 15 10:23:09 IST 2016 938230031v Summon printed DDR-2-16
+Thu Sep 15 10:23:17 IST 2016 938230031v Summon printed DHP-13-16
+Thu Sep 15 10:23:50 IST 2016 938230031v Status of Fiscal summon DDR-2-16
+Thu Sep 15 10:24:09 IST 2016 938230031v Status of Fiscal summon DHP-13-16
+Thu Sep 15 10:24:30 IST 2016 938230031v DS summon printed DHP-13-16
+Thu Sep 15 10:24:35 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 10:24:55 IST 2016 930650722v login courtclerk
+Fri Sep 30 10:25:35 IST 2016 930650722v Roll court-final judgement DDR-2-16
+Fri Sep 30 10:25:58 IST 2016 930650722v Ex-parte judgement recorded DHP-13-16
+Fri Sep 30 10:26:01 IST 2016 930650722v log out courtclerk
+Fri Sep 30 10:26:23 IST 2016 948140640v login subjectClerk
+Fri Sep 30 10:26:43 IST 2016 948140640v Decree printed DHP-13-16
+Fri Sep 30 10:27:02 IST 2016 948140640v Decree issued date recorded DHP-13-16
+Fri Sep 30 10:27:06 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 10:27:19 IST 2016 932350360V login subjectClerk
+Fri Sep 30 10:28:02 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 10:28:07 IST 2016 932350360V login subjectClerk
+Thu Sep 15 10:50:20 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 10:51:25 IST 2016 948190702V Case Registration DHP-14-16
+Thu Sep 15 10:51:27 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 10:52:14 IST 2016 938230030v login Registrar
+Thu Sep 15 10:53:15 IST 2016 938230030v User registration 948190702v
+Thu Sep 15 10:53:20 IST 2016 938230030v log out Registrar
+Thu Sep 15 10:53:51 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 10:55:24 IST 2016 948190702V Case Registration DMS-11-16
+Thu Sep 15 10:55:33 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 10:55:53 IST 2016 938164401v login Shroff
+Thu Sep 15 10:56:18 IST 2016 938164401v Stamp Duty payment DHP-14-16
+Thu Sep 15 10:56:31 IST 2016 938164401v Stamp Duty payment DMS-11-16
+Thu Sep 15 10:56:39 IST 2016 938164401v log out Shroff
+Thu Sep 15 10:56:54 IST 2016 938230031v login subjectClerk
+Thu Sep 15 10:57:23 IST 2016 938230031v Summon printed DHP-14-16
+Thu Sep 15 10:57:33 IST 2016 938230031v Summon printed DMR-1-12
+Thu Sep 15 10:58:01 IST 2016 938230031v Status of Fiscal summon DHP-14-16
+Thu Sep 15 10:58:13 IST 2016 938230031v Status of Fiscal summon DMR-1-12
+Thu Sep 15 10:58:48 IST 2016 938230031v DS summon printed DMR-1-12
+Thu Sep 15 10:58:53 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 10:59:18 IST 2016 930650722v login courtclerk
+Fri Sep 30 10:59:57 IST 2016 930650722v Roll court-final judgement DHP-14-16
+Fri Sep 30 11:00:18 IST 2016 930650722v Ex-parte judgement recorded DMR-1-12
+Fri Sep 30 11:00:21 IST 2016 930650722v log out courtclerk
+Fri Sep 30 11:00:34 IST 2016 948140640v login subjectClerk
+Fri Sep 30 11:00:55 IST 2016 948140640v Decree printed DMR-1-12
+Fri Sep 30 11:01:14 IST 2016 948140640v Decree issued date recorded DMR-1-12
+Fri Sep 30 11:01:18 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 11:01:48 IST 2016 932350360V login subjectClerk
+Fri Sep 30 11:02:29 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 11:02:33 IST 2016 932350360V login subjectClerk
+Fri Sep 30 11:02:35 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 11:05:31 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 11:06:40 IST 2016 948190702V Case Registration DHP-15-16
+Fri Sep 30 11:06:47 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 12:22:28 IST 2016 938230030V login Registrar
+Fri Sep 30 12:30:52 IST 2016 938230030V login Registrar
+Fri Sep 30 14:47:08 IST 2016 938230030v login Registrar
+Fri Sep 30 15:06:02 IST 2016 938230030v User registration 948190702v
+Fri Sep 30 15:14:15 IST 2016 938230030v log out Registrar
+Fri Sep 30 15:15:19 IST 2016 948190702v login RecordRoomClerk
+Fri Sep 30 15:16:54 IST 2016 948190702v Case Registration DMS-12-16
+Fri Sep 30 15:16:59 IST 2016 948190702v log out RecordRoomClerk
+Fri Sep 30 15:17:43 IST 2016 938164401V login Shroff
+Fri Sep 30 15:18:04 IST 2016 938164401V Stamp Duty payment DHP-15-16
+Fri Sep 30 15:18:17 IST 2016 938164401V Stamp Duty payment DMS-12-16
+Fri Sep 30 15:18:24 IST 2016 938164401V log out Shroff
+Fri Sep 30 15:18:39 IST 2016 938230031v login subjectClerk
+Thu Sep 15 15:19:34 IST 2016 938230031v login subjectClerk
+Thu Sep 15 15:21:04 IST 2016 938230031v Summon printed DHP-15-16
+Thu Sep 15 15:25:18 IST 2016 938230030v login Registrar
+Thu Sep 15 15:26:17 IST 2016 938230030v User registration 948190702v
+Thu Sep 15 15:26:24 IST 2016 938230030v log out Registrar
+Thu Sep 15 15:27:03 IST 2016 948190702V login RecordRoomClerk
+Thu Sep 15 15:28:13 IST 2016 948190702V Case Registration DMR-6-16
+Thu Sep 15 15:28:18 IST 2016 948190702V log out RecordRoomClerk
+Thu Sep 15 15:28:34 IST 2016 938164401V login Shroff
+Thu Sep 15 15:28:55 IST 2016 938164401V Stamp Duty payment DMR-6-16
+Thu Sep 15 15:29:06 IST 2016 938164401V log out Shroff
+Thu Sep 15 15:29:24 IST 2016 938230031v login subjectClerk
+Thu Sep 15 15:30:09 IST 2016 938230031v Summon printed DMR-6-16
+Thu Sep 15 15:30:20 IST 2016 938230031v Summon printed DMS-11-16
+Thu Sep 15 15:30:52 IST 2016 938230031v Status of Fiscal summon DHP-15-16
+Thu Sep 15 15:31:29 IST 2016 938230031v Status of Fiscal summon DMR-6-16
+Thu Sep 15 15:32:33 IST 2016 938230031v DS summon printed DMR-6-16
+Thu Sep 15 15:32:38 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 15:33:05 IST 2016 930650722v login courtclerk
+Fri Sep 30 15:33:50 IST 2016 930650722v Roll court-final judgement DHP-15-16
+Fri Sep 30 15:34:14 IST 2016 930650722v Ex-parte judgement recorded DMR-6-16
+Fri Sep 30 15:34:16 IST 2016 930650722v log out courtclerk
+Fri Sep 30 15:34:31 IST 2016 948140640v login subjectClerk
+Fri Sep 30 15:35:02 IST 2016 948140640v Decree printed DMR-6-16
+Fri Sep 30 15:35:25 IST 2016 948140640v Decree issued date recorded DMR-6-16
+Fri Sep 30 15:35:30 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 15:36:02 IST 2016 932350360V login subjectClerk
+Fri Sep 30 15:36:06 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 15:36:14 IST 2016 932350360V login subjectClerk
+Fri Sep 30 15:36:56 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 15:37:01 IST 2016 932350360V login subjectClerk
+Thu May 24 00:05:48 IST 2012 948190702V login RecordRoomClerk
+Thu May 24 00:06:59 IST 2012 938230030v login Registrar
+Thu May 24 00:07:56 IST 2012 938230030v login Registrar
+Thu May 24 00:09:57 IST 2012 938230030v login Registrar
+Fri Sep 16 10:18:24 IST 2016 938230030V login Registrar
+Fri Sep 16 10:19:19 IST 2016 938230030V User registration 948190702V
+Fri Sep 16 10:19:23 IST 2016 938230030V log out Registrar
+Fri Sep 16 10:19:55 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 10:23:06 IST 2016 948190702V Case Registration DMR-7-16
+Fri Sep 16 10:23:27 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 10:24:00 IST 2016 938164401V login Shroff
+Fri Sep 16 10:24:34 IST 2016 938164401V Stamp Duty payment DMR-7-16
+Fri Sep 16 10:37:16 IST 2016 938164401V log out Shroff
+Fri Sep 16 10:37:34 IST 2016 938230031V login subjectClerk
+Fri Sep 16 10:39:33 IST 2016 938230031V Summon printed DMR-7-16
+Fri Sep 16 10:46:03 IST 2016 938230031V Summon printed DMS-12-16
+Fri Sep 16 10:46:48 IST 2016 938230031V Status of Fiscal summon DMR-7-16
+Fri Sep 16 10:47:10 IST 2016 938230031V Status of Fiscal summon DMS-11-16
+Fri Sep 16 10:47:33 IST 2016 938230031V DS summon printed DMS-11-16
+Fri Sep 16 10:47:47 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 10:48:15 IST 2016 930650722V login courtclerk
+Fri Sep 30 10:48:55 IST 2016 930650722V Roll court-final judgement DMR-7-16
+Fri Sep 30 10:49:31 IST 2016 930650722V Ex-parte judgement recorded DMS-11-16
+Fri Sep 30 10:50:06 IST 2016 930650722V log out courtclerk
+Fri Sep 30 10:50:21 IST 2016 948140640V login subjectClerk
+Fri Sep 30 10:51:57 IST 2016 948140640V Decree printed DMS-6-16
+Fri Sep 30 10:52:09 IST 2016 948140640V Decree issued date recorded DMS-4-16
+Fri Sep 30 10:52:18 IST 2016 948140640V log out subjectClerk
+Fri Sep 30 10:52:36 IST 2016 932350360V login subjectClerk
+Fri Sep 30 10:53:25 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 10:53:32 IST 2016 932350360V login subjectClerk
+Fri Sep 30 10:55:27 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 11:01:28 IST 2016 null login courtclerk
+Fri Sep 30 11:06:57 IST 2016 null log out courtclerk
+Fri Sep 30 11:07:17 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 11:08:12 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 11:08:28 IST 2016 938164401V login Shroff
+Fri Sep 30 11:08:56 IST 2016 938164401V log out Shroff
+Fri Sep 30 11:09:07 IST 2016 938230031V login subjectClerk
+Fri Sep 30 11:09:54 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 11:10:11 IST 2016 930650722V login courtclerk
+Fri Sep 30 11:19:11 IST 2016 null login courtclerk
+Fri Sep 30 11:20:17 IST 2016 null login courtclerk
+Fri Sep 30 11:20:40 IST 2016 null log out courtclerk
+Fri Sep 30 11:22:41 IST 2016 null login courtclerk
+Fri Sep 30 11:23:13 IST 2016 null login courtclerk
+Fri Sep 30 11:23:29 IST 2016 null login courtclerk
+Fri Sep 30 11:24:04 IST 2016 null log out courtclerk
+Fri Sep 30 11:30:58 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 11:31:01 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 16:33:11 IST 2016 null login RecordRoomClerk
+Fri Sep 30 16:33:31 IST 2016 null login RecordRoomClerk
+Fri Sep 30 16:33:37 IST 2016 null log out RecordRoomClerk
+Fri Sep 30 16:43:17 IST 2016 null login RecordRoomClerk
+Fri Sep 30 16:44:00 IST 2016 null login RecordRoomClerk
+Fri Sep 30 16:44:21 IST 2016 null log out RecordRoomClerk
+Fri Sep 30 17:04:46 IST 2016 null login RecordRoomClerk
+Fri Sep 30 17:05:01 IST 2016 null log out RecordRoomClerk
+Fri Sep 30 17:05:09 IST 2016 null login Registrar
+Fri Sep 30 17:05:59 IST 2016 null log out Registrar
+Fri Sep 16 17:18:08 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:18:40 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:19:06 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:19:21 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:19:54 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:20:38 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:20:52 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:21:07 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:22:11 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:22:18 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 17:23:18 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:23:27 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:24:22 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:24:31 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:25:45 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:27:27 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:28:45 IST 2016 null login Registrar
+Fri Sep 16 17:29:15 IST 2016 null log out Registrar
+Fri Sep 16 17:29:22 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:30:23 IST 2016 null login Shroff
+Fri Sep 16 17:30:42 IST 2016 null log out Shroff
+Fri Sep 16 17:31:13 IST 2016 null login courtclerk
+Fri Sep 16 17:32:24 IST 2016 null login subjectClerk
+Fri Sep 16 17:33:05 IST 2016 null login subjectClerk
+Fri Sep 16 17:33:24 IST 2016 null log out subjectClerk
+Fri Sep 16 17:34:00 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:34:53 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 17:35:45 IST 2016 null login courtclerk
+Fri Sep 16 17:36:08 IST 2016 null log out courtclerk
+Fri Sep 16 17:36:35 IST 2016 null login subjectClerk
+Fri Sep 16 17:36:43 IST 2016 null log out subjectClerk
+Fri Sep 16 17:36:59 IST 2016 938230031V login subjectClerk
+Fri Sep 16 17:37:24 IST 2016 938230031V log out subjectClerk
+Fri Sep 16 17:41:07 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:41:18 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:41:27 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:44:27 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:44:57 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:46:32 IST 2016 null login RecordRoomClerk
+Fri Sep 16 17:46:39 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 17:46:51 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:47:18 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 17:48:10 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 17:48:44 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 17:53:59 IST 2016 938230030V login Registrar
+Fri Sep 16 17:54:46 IST 2016 938230030V log out Registrar
+Fri Sep 16 17:55:39 IST 2016 938230031V login subjectClerk
+Fri Sep 16 17:55:43 IST 2016 938230031V log out subjectClerk
+Fri Sep 16 17:55:51 IST 2016 938230030V login Registrar
+Fri Sep 16 17:56:08 IST 2016 938230030V log out Registrar
+Fri Sep 16 17:56:58 IST 2016 938230030V login Registrar
+Fri Sep 16 17:57:24 IST 2016 null login Registrar
+Fri Sep 16 17:57:45 IST 2016 null log out Registrar
+Fri Sep 16 18:09:00 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:09:40 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 18:11:21 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:12:27 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:13:21 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:13:37 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 18:13:43 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 16 18:13:55 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 16 18:14:07 IST 2016 null login Registrar
+Fri Sep 16 18:17:23 IST 2016 null login Shroff
+Fri Sep 16 18:17:44 IST 2016 null login Shroff
+Fri Sep 16 18:19:16 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:33:36 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:41:46 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:42:16 IST 2016 null login RecordRoomClerk
+Fri Sep 16 18:43:13 IST 2016 null login RecordRoomClerk
+Fri Sep 16 19:06:59 IST 2016 null login Registrar
+Fri Sep 16 19:13:31 IST 2016 null login subjectClerk
+Fri Sep 16 20:27:58 IST 2016 null login RecordRoomClerk
+Fri Sep 16 20:28:21 IST 2016 null log out RecordRoomClerk
+Fri Sep 16 20:28:29 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:02:38 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:03:47 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 07:04:04 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:05:09 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 07:12:57 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:13:04 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 07:14:46 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:16:00 IST 2016 null login RecordRoomClerk
+Sat Sep 17 07:16:07 IST 2016 null log out RecordRoomClerk
+Sat Sep 17 07:16:39 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:17:24 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 07:17:45 IST 2016 null login RecordRoomClerk
+Sat Sep 17 07:18:11 IST 2016 null log out RecordRoomClerk
+Sat Sep 17 07:19:19 IST 2016 null login Registrar
+Sat Sep 17 07:20:34 IST 2016 null login Shroff
+Sat Sep 17 07:20:44 IST 2016 null log out Shroff
+Sat Sep 17 07:20:51 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 07:21:43 IST 2016 null login courtclerk
+Sat Sep 17 07:22:07 IST 2016 null log out courtclerk
+Sat Sep 17 07:22:51 IST 2016 null login subjectClerk
+Sat Sep 17 07:26:29 IST 2016 938230030V login Registrar
+Sat Sep 17 07:27:12 IST 2016 null login Registrar
+Sat Sep 17 07:41:01 IST 2016 null login RecordRoomClerk
+Sat Sep 17 07:42:13 IST 2016 null login Shroff
+Sat Sep 17 07:51:24 IST 2016 948190702v login RecordRoomClerk
+Sat Sep 17 07:54:38 IST 2016 938230030V login Registrar
+Sat Sep 17 07:59:12 IST 2016 938230030V login Registrar
+Sat Sep 17 08:00:04 IST 2016 938230030V User registration 948190702V
+Sat Sep 17 08:00:07 IST 2016 938230030V log out Registrar
+Sat Sep 17 08:01:37 IST 2016 938230030V login Registrar
+Sat Sep 17 08:01:59 IST 2016 938230030V login Registrar
+Sat Sep 17 08:02:05 IST 2016 938230030V log out Registrar
+Sat Sep 17 08:02:36 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 08:03:30 IST 2016 948190702V Case Registration DMS-13-16
+Sat Sep 17 08:03:34 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 08:03:45 IST 2016 938164401V login Shroff
+Sat Sep 17 08:04:29 IST 2016 938164401V login Shroff
+Sat Sep 17 08:04:37 IST 2016 938164401V Stamp Duty payment DMS-13-16
+Sat Sep 17 08:05:11 IST 2016 938164401V log out Shroff
+Sat Sep 17 08:05:22 IST 2016 938230031V login subjectClerk
+Sat Sep 17 08:05:32 IST 2016 938230031V Summon printed DMS-13-16
+Sat Sep 17 08:05:43 IST 2016 938230031V Status of Fiscal summon DMS-12-16
+Sat Sep 17 08:05:55 IST 2016 938230031V Status of Fiscal summon DMS-13-16
+Sat Sep 17 08:06:00 IST 2016 938230031V DS summon printed DMS-13-16
+Sat Sep 17 08:06:03 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 08:06:33 IST 2016 930650722V login courtclerk
+Fri Sep 30 08:10:52 IST 2016 930650722V login courtclerk
+Fri Sep 30 08:11:21 IST 2016 930650722V Roll court-final judgement DMS-12-16
+Fri Sep 30 08:11:39 IST 2016 930650722V Ex-parte judgement recorded DMS-13-16
+Fri Sep 30 08:11:44 IST 2016 930650722V log out courtclerk
+Fri Sep 30 08:11:58 IST 2016 948140640V login subjectClerk
+Fri Sep 30 08:12:15 IST 2016 948140640V Decree printed DMS-9-16
+Fri Sep 30 08:12:22 IST 2016 948140640V Decree issued date recorded DMS-9-16
+Fri Sep 30 08:17:46 IST 2016 938230030V login Registrar
+Fri Sep 30 08:20:38 IST 2016 938230030V log out Registrar
+Fri Sep 30 08:20:44 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 09:12:56 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 09:13:35 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 09:14:16 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 09:14:17 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 09:23:10 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 09:26:26 IST 2016 948190702V Case Registration DMS-14-16
+Fri Sep 30 09:26:28 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 09:26:42 IST 2016 938164401V login Shroff
+Fri Sep 30 09:26:47 IST 2016 938164401V Stamp Duty payment DMS-14-16
+Fri Sep 30 10:01:11 IST 2016 null login RecordRoomClerk
+Fri Sep 30 10:03:19 IST 2016 null login RecordRoomClerk
+Fri Sep 30 10:08:44 IST 2016 null login RecordRoomClerk
+Fri Sep 30 10:10:38 IST 2016 null login RecordRoomClerk
+Fri Sep 30 10:50:19 IST 2016 null login RecordRoomClerk
+Fri Sep 30 10:51:20 IST 2016 null Case Registration DHP-16-16
+Fri Sep 30 10:51:22 IST 2016 null log out RecordRoomClerk
+Fri Sep 30 10:51:34 IST 2016 938164401V login Shroff
+Fri Sep 30 10:51:43 IST 2016 938164401V log out Shroff
+Fri Sep 30 10:53:06 IST 2016 938164401V login Shroff
+Fri Sep 30 10:55:09 IST 2016 938164401V login Shroff
+Fri Sep 30 10:55:46 IST 2016 938164401V login Shroff
+Fri Sep 30 10:56:36 IST 2016 938164401V login Shroff
+Fri Sep 30 10:56:55 IST 2016 938164401V log out Shroff
+Fri Sep 30 10:57:22 IST 2016 938164401V login Shroff
+Fri Sep 30 10:57:52 IST 2016 938164401V login Shroff
+Fri Sep 30 10:58:40 IST 2016 938164401V log out Shroff
+Sat Sep 17 10:58:58 IST 2016 938230031V login subjectClerk
+Sat Sep 17 11:01:06 IST 2016 938230031V log out subjectClerk
+Sat Sep 17 11:04:39 IST 2016 null login subjectClerk
+Sat Sep 17 11:05:15 IST 2016 null login subjectClerk
+Sat Sep 17 11:05:50 IST 2016 null login subjectClerk
+Sat Sep 17 11:07:19 IST 2016 null log out subjectClerk
+Sat Sep 17 11:08:55 IST 2016 null login Registrar
+Sat Sep 17 15:56:39 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 15:59:34 IST 2016 948190702V Case Registration DHP-17-16
+Sat Sep 17 15:59:36 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 15:59:49 IST 2016 938164401V login Shroff
+Sat Sep 17 15:59:54 IST 2016 938164401V Stamp Duty payment DHP-16-16
+Sat Sep 17 16:00:04 IST 2016 938164401V Stamp Duty payment DHP-17-16
+Sat Sep 17 16:00:12 IST 2016 938164401V log out Shroff
+Sat Sep 17 16:00:28 IST 2016 938230031V login subjectClerk
+Sat Sep 17 16:00:35 IST 2016 938230031V Summon printed DHP-16-16
+Sat Sep 17 16:00:48 IST 2016 938230031V Summon printed DHP-17-16
+Sat Sep 17 16:02:32 IST 2016 938230031V login subjectClerk
+Sat Sep 17 16:02:39 IST 2016 938230031V Summon printed DMS-14-16
+Sat Sep 17 16:03:10 IST 2016 938230031V Decree printed DMS-11-16
+Sat Sep 17 16:04:16 IST 2016 938230031V login subjectClerk
+Sat Sep 17 16:04:19 IST 2016 938230031V Decree printed DMS-13-16
+Sat Sep 17 16:04:45 IST 2016 938230031V Status of Fiscal summon DHP-16-16
+Sat Sep 17 16:04:51 IST 2016 938230031V Status of Fiscal summon DHP-17-16
+Sat Sep 17 16:04:54 IST 2016 938230031V log out subjectClerk
+Sat Sep 17 16:05:04 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:05:33 IST 2016 930650722V Ex-parte judgement recorded DHP-16-16
+Fri Sep 30 16:05:54 IST 2016 930650722V Ex-parte judgement recorded DHP-17-16
+Fri Sep 30 16:05:56 IST 2016 930650722V log out courtclerk
+Fri Sep 30 16:06:01 IST 2016 938230031V login subjectClerk
+Fri Sep 30 16:06:05 IST 2016 938230031V Decree printed DHP-16-16
+Fri Sep 30 16:06:14 IST 2016 938230031V Decree printed DHP-17-16
+Fri Sep 30 16:07:42 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 16:07:53 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 16:09:09 IST 2016 948190702V Case Registration DMS-15-16
+Fri Sep 30 16:09:12 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 16:09:28 IST 2016 938164401V login Shroff
+Fri Sep 30 16:09:32 IST 2016 938164401V Stamp Duty payment DMS-15-16
+Fri Sep 30 16:09:43 IST 2016 938164401V log out Shroff
+Fri Sep 30 16:09:56 IST 2016 938230031V login subjectClerk
+Fri Sep 16 16:10:12 IST 2016 938230031V Summon printed DMS-15-16
+Fri Sep 16 16:10:38 IST 2016 938230031V Status of Fiscal summon DMS-14-16
+Fri Sep 16 16:10:43 IST 2016 938230031V Status of Fiscal summon DMS-15-16
+Fri Sep 16 16:10:46 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 16:11:00 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:11:24 IST 2016 930650722V Ex-parte judgement recorded DMS-14-16
+Fri Sep 30 16:11:52 IST 2016 930650722V Ex-parte judgement recorded DMS-15-16
+Fri Sep 30 16:11:56 IST 2016 930650722V log out courtclerk
+Fri Sep 30 16:12:16 IST 2016 948140640V login subjectClerk
+Fri Sep 30 16:12:20 IST 2016 948140640V Decree printed DMS-14-16
+Fri Sep 30 16:12:29 IST 2016 948140640V Decree printed DMS-15-16
+Fri Sep 30 16:12:39 IST 2016 948140640V log out subjectClerk
+Sat Sep 17 16:20:01 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 17:10:35 IST 2016 null login Registrar
+Sat Sep 17 17:13:31 IST 2016 948190702v login RecordRoomClerk
+Sat Sep 17 17:13:45 IST 2016 948190702v log out RecordRoomClerk
+Sat Sep 17 17:22:43 IST 2016 null login Registrar
+Sat Sep 17 17:23:43 IST 2016 null log out Registrar
+Sat Sep 17 17:23:50 IST 2016 null login Registrar
+Sat Sep 17 17:24:26 IST 2016 null log out Registrar
+Sat Sep 17 17:25:01 IST 2016 938230030v login Registrar
+Sat Sep 17 17:25:45 IST 2016 938230030v User registration 948190702V
+Sat Sep 17 17:25:48 IST 2016 938230030v log out Registrar
+Sat Sep 17 17:26:15 IST 2016 948190702V login RecordRoomClerk
+Sat Sep 17 17:27:39 IST 2016 948190702V Case Registration DMR-8-16
+Sat Sep 17 17:27:41 IST 2016 948190702V log out RecordRoomClerk
+Sat Sep 17 17:27:57 IST 2016 938164401V login Shroff
+Sat Sep 17 17:28:01 IST 2016 938164401V Stamp Duty payment DMR-8-16
+Sat Sep 17 17:28:11 IST 2016 938164401V log out Shroff
+Sat Sep 17 17:28:18 IST 2016 938230031V login subjectClerk
+Sat Sep 17 17:28:26 IST 2016 938230031V Summon printed DMR-8-16
+Sat Sep 17 17:28:42 IST 2016 938230031V Status of Fiscal summon DMR-8-16
+Sat Sep 17 17:28:45 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 17:28:57 IST 2016 930650722V login courtclerk
+Fri Sep 30 17:29:14 IST 2016 930650722V Ex-parte judgement recorded DMR-8-16
+Fri Sep 30 17:29:17 IST 2016 930650722V log out courtclerk
+Fri Sep 30 17:29:27 IST 2016 948140640V login subjectClerk
+Fri Sep 30 17:29:33 IST 2016 948140640V Decree printed DMR-8-16
+Fri Sep 30 17:29:50 IST 2016 948140640V Decree issued date recorded DHP-16-16
+Fri Sep 30 17:29:55 IST 2016 948140640V log out subjectClerk
+Sun Sep 18 16:38:19 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 18 16:39:47 IST 2016 948190702V Case Registration DHP-18-16
+Sun Sep 18 16:39:50 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 18 16:40:01 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 18 16:41:46 IST 2016 948190702V Case Registration DHP-19-16
+Sun Sep 18 16:41:48 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 18 16:42:26 IST 2016 938164401V login Shroff
+Sun Sep 18 16:42:30 IST 2016 938164401V Stamp Duty payment DHP-18-16
+Sun Sep 18 16:42:40 IST 2016 938164401V Stamp Duty payment DHP-19-16
+Sun Sep 18 16:42:50 IST 2016 938164401V log out Shroff
+Sun Sep 18 16:43:03 IST 2016 938230031V login subjectClerk
+Sun Sep 18 16:43:11 IST 2016 938230031V Summon printed DHP-18-16
+Sun Sep 18 16:43:25 IST 2016 938230031V log out subjectClerk
+Sun Sep 18 16:43:34 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:43:56 IST 2016 930650722V log out courtclerk
+Sun Sep 18 16:44:24 IST 2016 938230031V login subjectClerk
+Sun Sep 18 16:44:29 IST 2016 938230031V Status of Fiscal summon DHP-18-16
+Sun Sep 18 16:44:32 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 16:44:47 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:45:10 IST 2016 930650722V log out courtclerk
+Fri Sep 30 16:45:18 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:46:32 IST 2016 930650722V log out courtclerk
+Sun Sep 18 16:58:31 IST 2016 938230030V login Registrar
+Sun Sep 18 16:59:33 IST 2016 938230030V User registration 948190702V
+Sun Sep 18 16:59:36 IST 2016 938230030V log out Registrar
+Sun Sep 18 17:00:15 IST 2016 948190702V login RecordRoomClerk
+Sun Sep 18 17:02:21 IST 2016 948190702V Case Registration DMR-9-16
+Sun Sep 18 17:02:26 IST 2016 948190702V log out RecordRoomClerk
+Sun Sep 18 17:02:53 IST 2016 938164401V login Shroff
+Sun Sep 18 17:03:08 IST 2016 938164401V Stamp Duty payment DMR-9-16
+Sun Sep 18 17:03:19 IST 2016 938164401V log out Shroff
+Sun Sep 18 17:04:06 IST 2016 938230031V login subjectClerk
+Sun Sep 18 17:04:31 IST 2016 938230031V Summon printed DHP-19-16
+Sun Sep 18 17:04:52 IST 2016 938230031V Summon printed DMR-9-16
+Sun Sep 18 17:05:17 IST 2016 938230031V Status of Fiscal summon DHP-19-16
+Sun Sep 18 17:05:37 IST 2016 938230031V Status of Fiscal summon DMR-9-16
+Sun Sep 18 17:05:56 IST 2016 938230031V DS summon printed DMR-9-16
+Sun Sep 18 17:06:03 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 17:06:45 IST 2016 930650722V login courtclerk
+Fri Sep 30 17:07:15 IST 2016 930650722V Roll court-final judgement DHP-18-16
+Fri Sep 30 17:07:46 IST 2016 930650722V Ex-parte judgement recorded DHP-19-16
+Fri Sep 30 17:08:13 IST 2016 930650722V Roll court-next hearing date recorded DMR-9-16
+Fri Sep 30 17:08:20 IST 2016 930650722V log out courtclerk
+Fri Sep 30 17:08:53 IST 2016 948140640V login subjectClerk
+Fri Sep 30 17:09:08 IST 2016 948140640V Decree printed DHP-19-16
+Fri Sep 30 17:09:33 IST 2016 948140640V Decree issued date recorded DHP-17-16
+Fri Sep 30 17:09:39 IST 2016 948140640V log out subjectClerk
+Fri Sep 30 17:10:00 IST 2016 932350360V login subjectClerk
+Fri Sep 30 17:10:33 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 17:10:37 IST 2016 932350360V login subjectClerk
+Fri Sep 30 17:11:00 IST 2016 932350360V log out subjectClerk
+Thu May 24 00:05:27 IST 2012 null login RecordRoomClerk
+Thu May 24 00:06:07 IST 2012 null login Registrar
+Mon Sep 19 15:16:34 IST 2016 null login RecordRoomClerk
+Mon Sep 19 15:17:31 IST 2016 null Case Registration DHP-20-16
+Mon Sep 19 15:18:07 IST 2016 null Case Registration DHP-21-16
+Mon Sep 19 15:18:10 IST 2016 null log out RecordRoomClerk
+Mon Sep 19 15:18:28 IST 2016 938164401V login Shroff
+Mon Sep 19 15:18:36 IST 2016 938164401V Stamp Duty payment DHP-20-16
+Mon Sep 19 15:18:45 IST 2016 938164401V Stamp Duty payment DHP-21-16
+Mon Sep 19 15:18:51 IST 2016 938164401V log out Shroff
+Mon Sep 19 15:19:01 IST 2016 938230031V login subjectClerk
+Mon Sep 19 15:19:25 IST 2016 938230031V Summon printed DHP-20-16
+Mon Sep 19 15:19:46 IST 2016 938230031V log out subjectClerk
+Mon Sep 19 15:30:49 IST 2016 938230030V login Registrar
+Mon Sep 19 15:31:32 IST 2016 938230030V User registration 948190702V
+Mon Sep 19 15:31:36 IST 2016 938230030V log out Registrar
+Mon Sep 19 15:32:15 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 15:33:41 IST 2016 948190702V Case Registration DHP-22-16
+Mon Sep 19 15:33:47 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 15:34:18 IST 2016 938164401V login Shroff
+Mon Sep 19 15:34:39 IST 2016 938164401V Stamp Duty payment DHP-22-16
+Mon Sep 19 15:34:49 IST 2016 938164401V log out Shroff
+Mon Sep 19 15:35:37 IST 2016 938230031V login subjectClerk
+Mon Sep 19 15:35:58 IST 2016 938230031V Summon printed DHP-21-16
+Mon Sep 19 15:36:16 IST 2016 938230031V Summon printed DHP-22-16
+Mon Sep 19 15:36:39 IST 2016 938230031V Status of Fiscal summon DHP-20-16
+Mon Sep 19 15:36:54 IST 2016 938230031V Status of Fiscal summon DHP-21-16
+Mon Sep 19 15:37:13 IST 2016 938230031V DS summon printed DHP-21-16
+Mon Sep 19 15:37:19 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 15:38:08 IST 2016 930650722V login courtclerk
+Fri Sep 30 15:38:48 IST 2016 930650722V Roll court-final judgement DHP-20-16
+Fri Sep 30 15:39:17 IST 2016 930650722V Ex-parte judgement recorded DHP-21-16
+Fri Sep 30 15:39:41 IST 2016 930650722V log out courtclerk
+Fri Sep 30 15:40:22 IST 2016 948140640V login subjectClerk
+Fri Sep 30 15:40:41 IST 2016 948140640V Decree printed DHP-21-16
+Fri Sep 30 15:41:05 IST 2016 948140640V Decree issued date recorded DHP-19-16
+Fri Sep 30 15:41:13 IST 2016 948140640V log out subjectClerk
+Fri Sep 30 15:41:41 IST 2016 932350360V login subjectClerk
+Fri Sep 30 15:42:22 IST 2016 932350360V log out subjectClerk
+Fri Sep 30 15:42:29 IST 2016 932350360V login subjectClerk
+Fri Sep 30 15:47:57 IST 2016 932350360V log out subjectClerk
+Mon Sep 19 15:58:00 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 15:58:52 IST 2016 948190702V Case Registration DHP-23-16
+Mon Sep 19 16:00:11 IST 2016 948190702V Case Registration DMS-16-16
+Mon Sep 19 16:00:13 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 16:00:36 IST 2016 938164401V login Shroff
+Mon Sep 19 16:00:40 IST 2016 938164401V Stamp Duty payment DHP-23-16
+Mon Sep 19 16:00:51 IST 2016 938164401V Stamp Duty payment DMS-16-16
+Mon Sep 19 16:00:57 IST 2016 938164401V log out Shroff
+Mon Sep 19 16:01:04 IST 2016 938230031V login subjectClerk
+Mon Sep 19 16:01:19 IST 2016 938230031V Summon printed DHP-23-16
+Mon Sep 19 16:01:43 IST 2016 938230031V Status of Fiscal summon DHP-22-16
+Mon Sep 19 16:01:49 IST 2016 938230031V Status of Fiscal summon DHP-23-16
+Mon Sep 19 16:01:53 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 16:02:04 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:02:54 IST 2016 930650722V log out courtclerk
+Mon Sep 19 16:13:41 IST 2016 938230030v login Registrar
+Mon Sep 19 16:14:40 IST 2016 938230030v User registration 948190702v
+Mon Sep 19 16:14:44 IST 2016 938230030v log out Registrar
+Mon Sep 19 16:15:18 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 16:16:35 IST 2016 948190702V Case Registration DMR-10-16
+Mon Sep 19 16:16:39 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 16:16:59 IST 2016 938164401v login Shroff
+Mon Sep 19 16:17:28 IST 2016 938164401v Stamp Duty payment DMR-10-16
+Mon Sep 19 16:17:37 IST 2016 938164401v log out Shroff
+Mon Sep 19 16:19:27 IST 2016 938230031V login subjectClerk
+Mon Sep 19 16:20:31 IST 2016 938230031V Summon printed DMR-10-16
+Mon Sep 19 16:20:59 IST 2016 938230031V Summon printed DMS-16-16
+Mon Sep 19 16:21:37 IST 2016 938230031V Status of Fiscal summon DMR-10-16
+Mon Sep 19 16:21:58 IST 2016 938230031V Status of Fiscal summon DMS-16-16
+Mon Sep 19 16:22:28 IST 2016 938230031V DS summon printed DMS-16-16
+Mon Sep 19 16:22:38 IST 2016 938230031V log out subjectClerk
+Sun Oct 30 16:23:13 IST 2016 930650722v login courtclerk
+Sun Oct 30 16:23:28 IST 2016 930650722v log out courtclerk
+Fri Sep 30 16:23:52 IST 2016 930650722v login courtclerk
+Fri Sep 30 16:24:29 IST 2016 930650722v Roll court-final judgement DHP-22-16
+Fri Sep 30 16:25:01 IST 2016 930650722v Roll court-next hearing date recorded DHP-23-16
+Fri Sep 30 16:25:26 IST 2016 930650722v Ex-parte judgement recorded DMR-10-16
+Fri Sep 30 16:25:30 IST 2016 930650722v log out courtclerk
+Fri Sep 30 16:26:00 IST 2016 948140640v login subjectClerk
+Fri Sep 30 16:26:20 IST 2016 948140640v Decree printed DMR-10-16
+Fri Sep 30 16:26:52 IST 2016 948140640v Decree issued date recorded DHP-21-16
+Fri Sep 30 16:27:05 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 16:27:19 IST 2016 932350360v login subjectClerk
+Fri Sep 30 16:29:50 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 16:30:00 IST 2016 932350360v login subjectClerk
+Fri Sep 30 16:30:30 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 16:33:39 IST 2016 948190702v login RecordRoomClerk
+Fri Sep 30 16:33:43 IST 2016 948190702v log out RecordRoomClerk
+Fri Sep 30 16:37:02 IST 2016 null login courtclerk
+Fri Sep 30 16:37:25 IST 2016 null log out courtclerk
+Mon Sep 19 16:38:59 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 16:40:26 IST 2016 948190702V Case Registration DHP-24-16
+Mon Sep 19 16:42:16 IST 2016 948190702V Case Registration DHP-25-16
+Mon Sep 19 16:42:17 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 16:42:27 IST 2016 938164401V login Shroff
+Mon Sep 19 16:42:33 IST 2016 938164401V Stamp Duty payment DHP-24-16
+Mon Sep 19 16:42:54 IST 2016 938164401V Stamp Duty payment DHP-25-16
+Mon Sep 19 16:43:01 IST 2016 938164401V log out Shroff
+Mon Sep 19 16:43:19 IST 2016 938230031V login subjectClerk
+Mon Sep 19 16:43:41 IST 2016 938230031V Summon printed DHP-24-16
+Mon Sep 19 16:43:57 IST 2016 938230031V Status of Fiscal summon DHP-24-16
+Mon Sep 19 16:43:59 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 16:44:11 IST 2016 930650722V login courtclerk
+Fri Sep 30 16:44:17 IST 2016 930650722V log out courtclerk
+Mon Sep 19 16:53:49 IST 2016 938230030v login Registrar
+Mon Sep 19 16:54:49 IST 2016 938230030v User registration 948190702v
+Mon Sep 19 16:54:56 IST 2016 938230030v log out Registrar
+Mon Sep 19 16:55:31 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 16:56:41 IST 2016 948190702V Case Registration DMS-17-16
+Mon Sep 19 16:56:46 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 16:57:04 IST 2016 938164401v login Shroff
+Mon Sep 19 16:57:33 IST 2016 938164401v Stamp Duty payment DMS-17-16
+Mon Sep 19 16:57:48 IST 2016 938164401v log out Shroff
+Mon Sep 19 16:59:16 IST 2016 938230031V login subjectClerk
+Mon Sep 19 17:00:09 IST 2016 938230031V Summon printed DHP-25-16
+Mon Sep 19 17:00:34 IST 2016 938230031V Summon printed DMS-17-16
+Mon Sep 19 17:01:08 IST 2016 938230031V Status of Fiscal summon DHP-25-16
+Mon Sep 19 17:01:25 IST 2016 938230031V Status of Fiscal summon DMS-17-16
+Mon Sep 19 17:01:54 IST 2016 938230031V DS summon printed DMS-17-16
+Mon Sep 19 17:02:00 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 17:02:34 IST 2016 930650722v login courtclerk
+Fri Sep 30 17:03:17 IST 2016 930650722v Roll court-final judgement DHP-24-16
+Fri Sep 30 17:03:51 IST 2016 930650722v Roll court-next hearing date recorded DHP-25-16
+Fri Sep 30 17:04:15 IST 2016 930650722v Ex-parte judgement recorded DMS-16-16
+Fri Sep 30 17:04:18 IST 2016 930650722v log out courtclerk
+Fri Sep 30 17:04:44 IST 2016 948140640v login subjectClerk
+Fri Sep 30 17:05:04 IST 2016 948140640v Decree printed DMS-16-16
+Fri Sep 30 17:05:26 IST 2016 948140640v Decree issued date recorded DMR-10-16
+Fri Sep 30 17:05:29 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 17:05:49 IST 2016 932350360v login subjectClerk
+Fri Sep 30 17:06:53 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 17:07:06 IST 2016 932350360v login subjectClerk
+Fri Sep 30 17:07:28 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 17:10:25 IST 2016 938230031v login subjectClerk
+Fri Sep 30 17:10:27 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 17:10:58 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 17:11:03 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 17:11:36 IST 2016 938230030V login Registrar
+Fri Sep 30 17:13:54 IST 2016 938230030V log out Registrar
+Fri Sep 30 17:14:06 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 17:14:09 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 17:14:18 IST 2016 930650722V login courtclerk
+Fri Sep 30 17:14:19 IST 2016 930650722V log out courtclerk
+Fri Sep 30 17:15:21 IST 2016 938230030V login Registrar
+Fri Sep 30 17:15:37 IST 2016 938230030V log out Registrar
+Fri Sep 30 17:15:47 IST 2016 938230030V login Registrar
+Mon Sep 19 21:04:19 IST 2016 938230031V login subjectClerk
+Mon Sep 19 21:04:22 IST 2016 938230031V log out subjectClerk
+Mon Sep 19 21:06:46 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 21:06:53 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 21:07:02 IST 2016 938230031V login subjectClerk
+Mon Sep 19 21:07:04 IST 2016 938230031V log out subjectClerk
+Mon Sep 19 21:08:08 IST 2016 948190702V login RecordRoomClerk
+Mon Sep 19 21:08:47 IST 2016 948190702V log out RecordRoomClerk
+Mon Sep 19 21:08:55 IST 2016 938230031V login subjectClerk
+Mon Sep 19 21:09:35 IST 2016 938230031V log out subjectClerk
+Mon Sep 19 21:09:45 IST 2016 938230030V login Registrar
+Mon Sep 19 21:10:09 IST 2016 938230030V log out Registrar
+Mon Sep 19 21:10:27 IST 2016 null login RecordRoomClerk
+Thu May 24 18:36:06 IST 2012 938230030v login Registrar
+Thu May 24 18:36:23 IST 2012 938230030v log out Registrar
+Thu May 24 18:38:53 IST 2012 938230031v login subjectClerk
+Thu May 24 18:43:32 IST 2012 938230031v log out subjectClerk
+Thu May 24 18:53:55 IST 2012 948190702v login RecordRoomClerk
+Thu May 24 18:55:05 IST 2012 948190702v Case Registration DHP-1-12
+Thu May 24 18:56:29 IST 2012 948190702v Case Registration DMR-2-12
+Thu May 24 18:56:31 IST 2012 948190702v log out RecordRoomClerk
+Thu May 24 18:57:16 IST 2012 938164401V login Shroff
+Thu May 24 18:57:20 IST 2012 938164401V Stamp Duty payment DHP-1-12
+Thu May 24 18:57:37 IST 2012 938164401V Stamp Duty payment DMR-2-12
+Thu May 24 18:57:58 IST 2012 938164401V log out Shroff
+Thu May 24 18:58:12 IST 2012 938230031V login subjectClerk
+Tue Sep 20 13:13:12 IST 2016 938230031V Summon printed DHP-1-12
+Tue Sep 20 13:13:27 IST 2016 938230031V Status of Fiscal summon DHP-1-12
+Tue Sep 20 13:13:39 IST 2016 938230031V log out subjectClerk
+Tue Sep 20 13:13:59 IST 2016 932350360v login subjectClerk
+Tue Sep 20 13:14:34 IST 2016 932350360v log out subjectClerk
+Tue Sep 20 13:14:43 IST 2016 932350360v login subjectClerk
+Tue Sep 20 13:15:21 IST 2016 932350360v log out subjectClerk
+Tue Sep 20 13:25:18 IST 2016 938230030v login Registrar
+Tue Sep 20 13:26:23 IST 2016 938230030v User registration 948190702v
+Tue Sep 20 13:26:28 IST 2016 938230030v log out Registrar
+Tue Sep 20 13:27:00 IST 2016 948190702V login RecordRoomClerk
+Tue Sep 20 13:28:13 IST 2016 948190702V Case Registration DHP-26-16
+Tue Sep 20 13:28:16 IST 2016 948190702V log out RecordRoomClerk
+Tue Sep 20 13:28:34 IST 2016 938164401v login Shroff
+Tue Sep 20 13:29:00 IST 2016 938164401v Stamp Duty payment DHP-26-16
+Tue Sep 20 13:29:10 IST 2016 938164401v log out Shroff
+Tue Sep 20 13:29:27 IST 2016 938230031v login subjectClerk
+Tue Sep 20 13:30:09 IST 2016 938230031v Summon printed DHP-26-16
+Tue Sep 20 13:30:29 IST 2016 938230031v Summon printed DMR-2-12
+Tue Sep 20 13:31:04 IST 2016 938230031v Status of Fiscal summon DHP-26-16
+Tue Sep 20 13:31:17 IST 2016 938230031v Status of Fiscal summon DMR-2-12
+Tue Sep 20 13:31:46 IST 2016 938230031v DS summon printed DMR-2-12
+Tue Sep 20 13:31:54 IST 2016 938230031v log out subjectClerk
+Tue Sep 20 13:32:11 IST 2016 932350360v login subjectClerk
+Tue Sep 20 13:33:07 IST 2016 932350360v log out subjectClerk
+Tue Sep 20 13:33:16 IST 2016 932350360V login subjectClerk
+Tue Sep 20 13:33:25 IST 2016 932350360V log out subjectClerk
+Tue Sep 20 14:07:55 IST 2016 948190702V login RecordRoomClerk
+Tue Sep 20 14:08:33 IST 2016 948190702V Case Registration DMR-11-16
+Tue Sep 20 14:09:27 IST 2016 948190702V Case Registration DHP-27-16
+Tue Sep 20 14:09:29 IST 2016 948190702V log out RecordRoomClerk
+Tue Sep 20 14:09:42 IST 2016 938164401V login Shroff
+Tue Sep 20 14:09:45 IST 2016 938164401V Stamp Duty payment DHP-27-16
+Tue Sep 20 14:09:54 IST 2016 938164401V Stamp Duty payment DMR-11-16
+Tue Sep 20 14:09:58 IST 2016 938164401V log out Shroff
+Tue Sep 20 14:10:05 IST 2016 938230031V login subjectClerk
+Tue Sep 20 14:10:13 IST 2016 938230031V Summon printed DHP-27-16
+Tue Sep 20 14:10:16 IST 2016 938230031V log out subjectClerk
+Tue Sep 20 14:11:42 IST 2016 938230030v login Registrar
+Tue Sep 20 14:12:43 IST 2016 938230030v User registration 948190702v
+Tue Sep 20 14:12:47 IST 2016 938230030v log out Registrar
+Tue Sep 20 14:13:19 IST 2016 948190702V login RecordRoomClerk
+Tue Sep 20 14:14:28 IST 2016 948190702V Case Registration DHP-28-16
+Tue Sep 20 14:14:31 IST 2016 948190702V log out RecordRoomClerk
+Tue Sep 20 14:14:48 IST 2016 938164401v login Shroff
+Tue Sep 20 14:15:17 IST 2016 938164401v Stamp Duty payment DHP-28-16
+Tue Sep 20 14:15:26 IST 2016 938164401v log out Shroff
+Tue Sep 20 14:16:06 IST 2016 938230031v login subjectClerk
+Tue Sep 20 14:16:42 IST 2016 938230031v Summon printed DHP-28-16
+Tue Sep 20 14:16:59 IST 2016 938230031v Summon printed DMR-11-16
+Tue Sep 20 14:17:31 IST 2016 938230031v Status of Fiscal summon DHP-27-16
+Tue Sep 20 14:17:44 IST 2016 938230031v Status of Fiscal summon DHP-28-16
+Tue Sep 20 14:17:58 IST 2016 938230031v Status of Fiscal summon DMR-11-16
+Tue Sep 20 14:18:31 IST 2016 938230031v DS summon printed DHP-28-16
+Tue Sep 20 14:18:33 IST 2016 938230031v log out subjectClerk
+Tue Sep 20 14:18:43 IST 2016 938230031V login subjectClerk
+Tue Sep 20 14:18:47 IST 2016 938230031V DS summon printed DMR-11-16
+Tue Sep 20 14:18:49 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 14:19:25 IST 2016 930650722v login courtclerk
+Fri Sep 30 14:20:09 IST 2016 930650722v Roll court-final judgement DHP-1-12
+Fri Sep 30 14:20:41 IST 2016 930650722v Roll court-next hearing date recorded DHP-26-16
+Fri Sep 30 14:21:02 IST 2016 930650722v Ex-parte judgement recorded DHP-27-16
+Fri Sep 30 14:21:06 IST 2016 930650722v log out courtclerk
+Fri Sep 30 14:21:29 IST 2016 948140640v login subjectClerk
+Fri Sep 30 14:21:47 IST 2016 948140640v Decree printed DHP-27-16
+Fri Sep 30 14:22:12 IST 2016 948140640v Decree issued date recorded DHP-27-16
+Fri Sep 30 14:22:15 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 14:22:36 IST 2016 932350360v login subjectClerk
+Fri Sep 30 14:23:34 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 14:23:49 IST 2016 932350360v login subjectClerk
+Fri Sep 30 14:24:11 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 14:27:12 IST 2016 938230030V login Registrar
+Fri Sep 30 14:29:26 IST 2016 938230030V log out Registrar
+Fri Sep 30 14:30:55 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 14:32:41 IST 2016 948190702V Case Registration DHP-29-16
+Fri Sep 30 14:34:03 IST 2016 948190702V Case Registration DHP-30-16
+Fri Sep 30 14:34:05 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 14:34:26 IST 2016 938164401V login Shroff
+Fri Sep 30 14:34:30 IST 2016 938164401V Stamp Duty payment DHP-29-16
+Fri Sep 30 14:34:38 IST 2016 938164401V Stamp Duty payment DHP-30-16
+Fri Sep 30 14:34:43 IST 2016 938164401V log out Shroff
+Fri Sep 30 14:34:53 IST 2016 938230031V login subjectClerk
+Tue Sep 20 14:35:40 IST 2016 938230031V Summon printed DHP-29-16
+Tue Sep 20 14:35:45 IST 2016 938230031V log out subjectClerk
+Tue Sep 20 14:49:02 IST 2016 938230030v login Registrar
+Tue Sep 20 14:49:58 IST 2016 938230030v User registration 948190702v
+Tue Sep 20 14:50:03 IST 2016 938230030v log out Registrar
+Tue Sep 20 14:50:40 IST 2016 948190702V login RecordRoomClerk
+Tue Sep 20 14:52:10 IST 2016 948190702V Case Registration DHP-31-16
+Tue Sep 20 14:52:12 IST 2016 948190702V log out RecordRoomClerk
+Tue Sep 20 14:52:28 IST 2016 938164401v login Shroff
+Tue Sep 20 14:52:55 IST 2016 938164401v Stamp Duty payment DHP-31-16
+Tue Sep 20 14:53:07 IST 2016 938164401v log out Shroff
+Tue Sep 20 14:53:44 IST 2016 938230031v login subjectClerk
+Tue Sep 20 14:54:20 IST 2016 938230031v Summon printed DHP-30-16
+Tue Sep 20 14:54:36 IST 2016 938230031v Summon printed DHP-31-16
+Tue Sep 20 14:55:07 IST 2016 938230031v Status of Fiscal summon DHP-29-16
+Tue Sep 20 14:55:26 IST 2016 938230031v Status of Fiscal summon DHP-30-16
+Tue Sep 20 14:55:35 IST 2016 938230031v Status of Fiscal summon DHP-31-16
+Tue Sep 20 14:56:02 IST 2016 938230031v DS summon printed DHP-30-16
+Tue Sep 20 14:56:09 IST 2016 938230031v log out subjectClerk
+Fri Sep 30 14:56:37 IST 2016 930650722v login courtclerk
+Fri Sep 30 14:57:14 IST 2016 930650722v Roll court-final judgement DHP-28-16
+Fri Sep 30 14:57:53 IST 2016 930650722v Roll court-next hearing date recorded DHP-29-16
+Fri Sep 30 14:58:14 IST 2016 930650722v Ex-parte judgement recorded DHP-30-16
+Fri Sep 30 14:58:17 IST 2016 930650722v log out courtclerk
+Fri Sep 30 14:58:41 IST 2016 948140640v login subjectClerk
+Fri Sep 30 14:58:59 IST 2016 948140640v Decree printed DHP-30-16
+Fri Sep 30 14:59:25 IST 2016 948140640v Decree issued date recorded DHP-30-16
+Fri Sep 30 14:59:28 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 15:03:07 IST 2016 932350360v login subjectClerk
+Fri Sep 30 15:03:57 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 15:04:05 IST 2016 932350360v login subjectClerk
+Fri Sep 30 15:04:31 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 15:05:06 IST 2016 938230030V login Registrar
+Fri Sep 30 15:05:41 IST 2016 938230030V log out Registrar
+Fri Sep 30 15:08:38 IST 2016 938230030v login Registrar
+Fri Sep 30 15:09:35 IST 2016 938230030v login Registrar
+Fri Sep 30 15:09:47 IST 2016 938230030v log out Registrar
+Fri Sep 30 15:09:56 IST 2016 948190702V login RecordRoomClerk
+Fri Sep 30 15:11:00 IST 2016 948190702V Case Registration DHP-32-16
+Fri Sep 30 15:12:01 IST 2016 948190702V Case Registration DHP-33-16
+Fri Sep 30 15:12:03 IST 2016 948190702V log out RecordRoomClerk
+Fri Sep 30 15:12:18 IST 2016 938164401V login Shroff
+Tue Sep 20 15:12:36 IST 2016 938164401V Stamp Duty payment DHP-32-16
+Tue Sep 20 15:12:43 IST 2016 938164401V Stamp Duty payment DHP-33-16
+Tue Sep 20 15:12:57 IST 2016 938164401V log out Shroff
+Tue Sep 20 15:13:05 IST 2016 938230031V login subjectClerk
+Tue Sep 20 15:13:13 IST 2016 938230031V Summon printed DHP-32-16
+Tue Sep 20 15:13:41 IST 2016 938230031V Status of Fiscal summon DHP-32-16
+Tue Sep 20 15:13:47 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 15:14:06 IST 2016 930650722V login courtclerk
+Fri Sep 30 15:14:11 IST 2016 930650722V log out courtclerk
+Tue Sep 20 15:20:28 IST 2016 938230030v login Registrar
+Tue Sep 20 15:21:27 IST 2016 938230030v User registration 948190702V
+Tue Sep 20 15:21:31 IST 2016 938230030v log out Registrar
+Tue Sep 20 15:22:07 IST 2016 948190702V login RecordRoomClerk
+Tue Sep 20 15:23:31 IST 2016 948190702V Case Registration DHP-34-16
+Tue Sep 20 15:23:34 IST 2016 948190702V log out RecordRoomClerk
+Tue Sep 20 15:23:54 IST 2016 938164401v login Shroff
+Tue Sep 20 15:24:21 IST 2016 938164401v Stamp Duty payment DHP-34-16
+Tue Sep 20 15:24:35 IST 2016 938164401v log out Shroff
+Tue Sep 20 15:25:11 IST 2016 938230031V login subjectClerk
+Tue Sep 20 15:25:47 IST 2016 938230031V Summon printed DHP-33-16
+Tue Sep 20 15:26:11 IST 2016 938230031V Summon printed DHP-34-16
+Tue Sep 20 15:26:43 IST 2016 938230031V Status of Fiscal summon DHP-33-16
+Tue Sep 20 15:26:55 IST 2016 938230031V Status of Fiscal summon DHP-34-16
+Tue Sep 20 15:27:26 IST 2016 938230031V DS summon printed DHP-34-16
+Tue Sep 20 15:27:31 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 15:28:08 IST 2016 930650722v login courtclerk
+Fri Sep 30 15:28:48 IST 2016 930650722v Roll court-final judgement DHP-31-16
+Fri Sep 30 15:29:18 IST 2016 930650722v Roll court-next hearing date recorded DHP-32-16
+Fri Sep 30 15:29:41 IST 2016 930650722v Ex-parte judgement recorded DHP-33-16
+Fri Sep 30 15:29:44 IST 2016 930650722v log out courtclerk
+Fri Sep 30 15:30:09 IST 2016 948140640v login subjectClerk
+Fri Sep 30 15:30:28 IST 2016 948140640v Decree printed DHP-33-16
+Fri Sep 30 15:30:56 IST 2016 948140640v Decree issued date recorded DHP-33-16
+Fri Sep 30 15:30:59 IST 2016 948140640v log out subjectClerk
+Fri Sep 30 15:31:15 IST 2016 932350360v login subjectClerk
+Fri Sep 30 15:32:04 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 15:32:12 IST 2016 932350360v login subjectClerk
+Fri Sep 30 15:32:31 IST 2016 932350360v log out subjectClerk
+Fri Sep 30 15:33:13 IST 2016 938230030V login Registrar
+Fri Sep 30 15:33:39 IST 2016 938230030V log out Registrar
+Wed Sep 21 17:43:20 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 17:45:08 IST 2016 948190702V Case Registration DHP-35-16
+Wed Sep 21 17:47:02 IST 2016 948190702V Case Registration DDR-3-16
+Wed Sep 21 17:47:07 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 21 17:47:49 IST 2016 938164401V login Shroff
+Wed Sep 21 17:48:01 IST 2016 938164401V Stamp Duty payment DDR-3-16
+Wed Sep 21 17:48:13 IST 2016 938164401V Stamp Duty payment DHP-35-16
+Wed Sep 21 17:48:21 IST 2016 938164401V log out Shroff
+Wed Sep 21 17:48:30 IST 2016 938230031V login subjectClerk
+Wed Sep 21 17:48:43 IST 2016 938230031V Summon printed DDR-3-16
+Wed Sep 21 17:48:54 IST 2016 938230031V Summon printed DHP-35-16
+Wed Sep 21 17:49:12 IST 2016 938230031V Status of Fiscal summon DDR-3-16
+Wed Sep 21 17:49:23 IST 2016 938230031V Status of Fiscal summon DHP-35-16
+Wed Sep 21 17:49:31 IST 2016 938230031V DS summon printed DHP-35-16
+Wed Sep 21 17:49:35 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 17:49:57 IST 2016 930650722V login courtclerk
+Fri Sep 30 17:50:21 IST 2016 930650722V Roll court-final judgement DDR-3-16
+Fri Sep 30 17:50:52 IST 2016 930650722V Roll court-next hearing date recorded DHP-34-16
+Fri Sep 30 17:51:17 IST 2016 930650722V Ex-parte judgement recorded DHP-35-16
+Fri Sep 30 17:51:20 IST 2016 930650722V log out courtclerk
+Wed Sep 21 17:51:44 IST 2016 948140640V login subjectClerk
+Wed Sep 21 17:51:50 IST 2016 948140640V Decree printed DHP-35-16
+Wed Sep 21 17:52:13 IST 2016 948140640V Decree issued date recorded DHP-35-16
+Wed Sep 21 17:52:31 IST 2016 948140640V log out subjectClerk
+Wed Sep 21 17:52:47 IST 2016 932350360V login subjectClerk
+Wed Sep 21 17:53:13 IST 2016 932350360V log out subjectClerk
+Wed Sep 21 17:54:22 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 17:54:47 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 21 18:00:05 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 18:01:53 IST 2016 948140640V login subjectClerk
+Wed Sep 21 18:03:46 IST 2016 948140640V log out subjectClerk
+Wed Sep 21 18:03:50 IST 2016 948140640V login subjectClerk
+Wed Sep 21 18:03:59 IST 2016 948140640V log out subjectClerk
+Wed Sep 21 18:04:08 IST 2016 938230030V login Registrar
+Wed Sep 21 18:04:44 IST 2016 938230030V log out Registrar
+Wed Sep 21 18:05:18 IST 2016 938230031V login subjectClerk
+Wed Sep 21 18:05:45 IST 2016 938230031V log out subjectClerk
+Wed Sep 21 18:17:10 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 18:29:23 IST 2016 948190702V Case Registration DHP-36-16
+Wed Sep 21 18:31:36 IST 2016 948190702V Case Registration DMR-12-16
+Wed Sep 21 18:33:25 IST 2016 948190702V Case Registration DMS-18-16
+Wed Sep 21 18:35:54 IST 2016 948190702V Case Registration DDR-4-16
+Wed Sep 21 18:37:45 IST 2016 948190702V Case Registration DMB-3-16
+Wed Sep 21 18:39:03 IST 2016 948190702V Case Registration DHP-37-16
+Wed Sep 21 18:39:07 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 21 18:39:20 IST 2016 938164401V login Shroff
+Wed Sep 21 18:39:29 IST 2016 938164401V Stamp Duty payment DDR-4-16
+Wed Sep 21 18:39:38 IST 2016 938164401V Stamp Duty payment DHP-36-16
+Wed Sep 21 18:39:46 IST 2016 938164401V Stamp Duty payment DHP-37-16
+Wed Sep 21 18:39:54 IST 2016 938164401V log out Shroff
+Wed Sep 21 18:40:09 IST 2016 938230031V login subjectClerk
+Wed Sep 21 18:40:21 IST 2016 938230031V Summon printed DDR-4-16
+Wed Sep 21 18:40:31 IST 2016 938230031V Summon printed DHP-36-16
+Wed Sep 21 18:40:55 IST 2016 938230031V Status of Fiscal summon DDR-4-16
+Wed Sep 21 18:41:06 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 18:41:22 IST 2016 930650722V login courtclerk
+Fri Sep 30 18:42:09 IST 2016 930650722V log out courtclerk
+Fri Sep 30 18:43:10 IST 2016 930650722V login courtclerk
+Fri Sep 30 18:43:43 IST 2016 930650722V Ex-parte judgement recorded DDR-4-16
+Fri Sep 30 18:44:02 IST 2016 930650722V Ex-parte judgement recorded DMR-11-16
+Fri Sep 30 18:44:37 IST 2016 930650722V Ex-parte judgement recorded DMR-2-12
+Fri Sep 30 18:44:40 IST 2016 930650722V log out courtclerk
+Wed Sep 21 18:45:08 IST 2016 948140640V login subjectClerk
+Wed Sep 21 18:45:33 IST 2016 948140640V log out subjectClerk
+Wed Sep 21 18:45:42 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 18:46:32 IST 2016 948190702V Case Registration DHP-38-16
+Wed Sep 21 18:48:05 IST 2016 948190702V Case Registration DMR-13-16
+Wed Sep 21 18:49:52 IST 2016 948190702V Case Registration DMS-19-16
+Wed Sep 21 18:51:57 IST 2016 948190702V Case Registration DDR-5-16
+Wed Sep 21 18:53:30 IST 2016 948190702V Case Registration DMB-4-16
+Wed Sep 21 18:53:33 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 21 18:53:45 IST 2016 938164401V login Shroff
+Wed Sep 21 18:56:49 IST 2016 938164401V Stamp Duty payment DDR-5-16
+Wed Sep 21 18:56:55 IST 2016 938164401V Stamp Duty payment DHP-38-16
+Wed Sep 21 18:57:01 IST 2016 938164401V Stamp Duty payment DMB-3-16
+Wed Sep 21 18:57:07 IST 2016 938164401V Stamp Duty payment DMB-4-16
+Wed Sep 21 18:57:18 IST 2016 938164401V Stamp Duty payment DMR-12-16
+Wed Sep 21 18:57:23 IST 2016 938164401V log out Shroff
+Wed Sep 21 18:57:33 IST 2016 938230031V login subjectClerk
+Wed Sep 21 18:57:45 IST 2016 938230031V Summon printed DDR-5-16
+Wed Sep 21 18:57:57 IST 2016 938230031V Summon printed DHP-37-16
+Wed Sep 21 18:58:04 IST 2016 938230031V Summon printed DHP-38-16
+Wed Sep 21 18:58:31 IST 2016 938230031V Status of Fiscal summon DHP-37-16
+Wed Sep 21 18:58:51 IST 2016 938230031V Status of Fiscal summon DHP-38-16
+Wed Sep 21 18:59:03 IST 2016 938230031V log out subjectClerk
+Wed Sep 21 18:59:25 IST 2016 938230031V login subjectClerk
+Wed Sep 21 18:59:35 IST 2016 938230031V Summon printed DMB-3-16
+Wed Sep 21 19:00:04 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 19:00:18 IST 2016 930650722V login courtclerk
+Fri Sep 30 19:00:30 IST 2016 930650722V log out courtclerk
+Wed Sep 21 19:00:51 IST 2016 948140640V login subjectClerk
+Wed Sep 21 19:01:00 IST 2016 948140640V log out subjectClerk
+Wed Sep 21 19:01:10 IST 2016 948190702V login RecordRoomClerk
+Wed Sep 21 19:02:33 IST 2016 948190702V Case Registration DMB-5-16
+Wed Sep 21 19:03:23 IST 2016 948190702V Case Registration DHP-39-16
+Wed Sep 21 19:03:38 IST 2016 948190702V log out RecordRoomClerk
+Wed Sep 21 19:03:49 IST 2016 938164401V login Shroff
+Wed Sep 21 19:03:52 IST 2016 938164401V Stamp Duty payment DHP-39-16
+Wed Sep 21 19:04:00 IST 2016 938164401V Stamp Duty payment DMB-5-16
+Wed Sep 21 19:04:04 IST 2016 938164401V log out Shroff
+Wed Sep 21 19:04:16 IST 2016 938230031V login subjectClerk
+Wed Sep 21 19:04:25 IST 2016 938230031V Summon printed DHP-39-16
+Wed Sep 21 19:04:34 IST 2016 938230031V Summon printed DMB-4-16
+Wed Sep 21 19:04:45 IST 2016 938230031V Status of Fiscal summon DDR-5-16
+Wed Sep 21 19:04:49 IST 2016 938230031V Status of Fiscal summon DHP-36-16
+Wed Sep 21 19:04:52 IST 2016 938230031V log out subjectClerk
+Fri Sep 30 19:05:06 IST 2016 930650722V login courtclerk
+Fri Sep 30 19:05:23 IST 2016 930650722V log out courtclerk
