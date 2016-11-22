@@ -60,7 +60,7 @@ public class UserRegistration extends javax.swing.JPanel {
         jLabel7 = new javax.swing.JLabel();
         jLabel9 = new javax.swing.JLabel();
         jTextField5 = new javax.swing.JTextField();
-        jComboBox1 = new javax.swing.JComboBox<>();
+        jComboBox1 = new javax.swing.JComboBox<String>();
         jButton9 = new javax.swing.JButton();
         jDateChooser1 = new com.toedter.calendar.JDateChooser();
         jLabel11 = new javax.swing.JLabel();
@@ -182,7 +182,7 @@ public class UserRegistration extends javax.swing.JPanel {
         jComboBox1.setBackground(javax.swing.UIManager.getDefaults().getColor("nb_workplace_fill"));
         jComboBox1.setFont(new java.awt.Font("Verdana", 1, 14)); // NOI18N
         jComboBox1.setForeground(new java.awt.Color(51, 51, 51));
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Judge", "Subject clerk", "Record room clerk", "Shroff", "Interpreter", "Registrar", " " }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Judge", "Subject clerk", "Record room clerk", "Shroff", "Interpreter", "Registrar", " " }));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
@@ -346,11 +346,11 @@ public class UserRegistration extends javax.swing.JPanel {
                             .addComponent(jLabel6)
                             .addComponent(jLabel16, javax.swing.GroupLayout.PREFERRED_SIZE, 24, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(18, 18, 18)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jRadioButton1)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                                 .addComponent(jLabel8)
-                                .addComponent(jLabel17, javax.swing.GroupLayout.PREFERRED_SIZE, 24, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                .addComponent(jLabel17, javax.swing.GroupLayout.PREFERRED_SIZE, 24, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(jRadioButton1))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(jRadioButton2)
                         .addGap(18, 18, 18)

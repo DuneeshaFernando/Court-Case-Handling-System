@@ -85,11 +85,11 @@ static String caseno;
         jTabbedPane2 = new javax.swing.JTabbedPane();
         jPanel2 = new javax.swing.JPanel();
         jLabel17 = new javax.swing.JLabel();
-        jDateChooser1 = new com.toedter.calendar.JDateChooser();
         jLabel18 = new javax.swing.JLabel();
         jScrollPane6 = new javax.swing.JScrollPane();
         jTextArea3 = new javax.swing.JTextArea();
         jButton5 = new javax.swing.JButton();
+        jDateChooser2 = new com.toedter.calendar.JDateChooser();
         jPanel3 = new javax.swing.JPanel();
         jScrollPane5 = new javax.swing.JScrollPane();
         jTextArea2 = new javax.swing.JTextArea();
@@ -127,8 +127,6 @@ static String caseno;
         jLabel17.setForeground(new java.awt.Color(51, 51, 51));
         jLabel17.setText("Next Hearing Date");
 
-        jDateChooser1.setDateFormatString("yyyy-MM-dd");
-
         jLabel18.setBackground(java.awt.SystemColor.controlHighlight);
         jLabel18.setFont(new java.awt.Font("Verdana", 1, 14)); // NOI18N
         jLabel18.setForeground(new java.awt.Color(51, 51, 51));
@@ -161,19 +159,24 @@ static String caseno;
                     .addComponent(jScrollPane6, javax.swing.GroupLayout.Alignment.TRAILING)
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel17)
-                            .addComponent(jDateChooser1, javax.swing.GroupLayout.PREFERRED_SIZE, 178, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addGroup(jPanel2Layout.createSequentialGroup()
+                                .addComponent(jLabel17)
+                                .addGap(30, 30, 30)
+                                .addComponent(jDateChooser2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addComponent(jLabel18))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                        .addContainerGap(255, Short.MAX_VALUE))))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addGap(6, 6, 6)
-                .addComponent(jLabel17)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jDateChooser1, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(10, 10, 10)
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel2Layout.createSequentialGroup()
+                        .addGap(6, 6, 6)
+                        .addComponent(jLabel17))
+                    .addGroup(jPanel2Layout.createSequentialGroup()
+                        .addContainerGap()
+                        .addComponent(jDateChooser2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(42, 42, 42)
                 .addComponent(jLabel18)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jScrollPane6, javax.swing.GroupLayout.DEFAULT_SIZE, 209, Short.MAX_VALUE)
@@ -474,7 +477,7 @@ static String caseno;
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         String casenum=jLabel20.getText();
 
-        Date hdate=jDateChooser1.getDate();
+        Date hdate=jDateChooser2.getDate();
         SimpleDateFormat sdf= new SimpleDateFormat("yyyy-MM-dd");
         String hearDate=sdf.format(hdate);
 
@@ -545,7 +548,7 @@ static String caseno;
     private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton5;
     private javax.swing.JComboBox jComboBox2;
-    private com.toedter.calendar.JDateChooser jDateChooser1;
+    private com.toedter.calendar.JDateChooser jDateChooser2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel16;
