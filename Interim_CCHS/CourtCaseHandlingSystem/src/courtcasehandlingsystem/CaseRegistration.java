@@ -315,6 +315,11 @@ public class CaseRegistration extends javax.swing.JPanel {
         jTextField7.setBackground(java.awt.SystemColor.controlHighlight);
         jTextField7.setFont(new java.awt.Font("Verdana", 1, 14)); // NOI18N
         jTextField7.setForeground(new java.awt.Color(51, 51, 51));
+        jTextField7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField7ActionPerformed(evt);
+            }
+        });
         jTextField7.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyPressed(java.awt.event.KeyEvent evt) {
                 jTextField7KeyPressed(evt);
@@ -1964,6 +1969,10 @@ public class CaseRegistration extends javax.swing.JPanel {
         }
         
     }//GEN-LAST:event_jButton27ActionPerformed
+
+    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField7ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField7ActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

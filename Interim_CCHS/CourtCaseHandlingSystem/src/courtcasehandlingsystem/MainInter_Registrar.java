@@ -36,6 +36,7 @@ public class MainInter_Registrar extends javax.swing.JFrame {
     MyProfile myprof;
     Handle_inquiries1 handle_inq;
     RetreiveCaseDetails retr;
+    AssetsCeasingProcess acp;
     /**
      * Creates new form MainInter
      */
@@ -573,7 +574,14 @@ public class MainInter_Registrar extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton12ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
-        // TODO add your handling code here:
+        jDesktopPane1.removeAll();
+        jDesktopPane1.repaint();
+        jDesktopPane1.revalidate();
+        
+        acp=new AssetsCeasingProcess();
+        jDesktopPane1.add(acp);
+        jDesktopPane1.repaint();
+        jDesktopPane1.revalidate();
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton15ActionPerformed
