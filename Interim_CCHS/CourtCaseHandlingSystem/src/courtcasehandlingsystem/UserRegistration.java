@@ -396,7 +396,8 @@ public class UserRegistration extends javax.swing.JPanel {
         String occupation=jComboBox1.getSelectedItem().toString();
         String contactnum=jTextField5.getText();
         String email=jTextField6.getText();
-        String password="4a7d1ed414474e4033ac29ccb8653d9b"; //hash of default password at the very beginning ; default password is 0000
+        
+        String password="b361f68eb4cb99827936646a339306ee"; //hash of default password at the very beginning ; default password is 0000
         
         
         if(jRadioButton1.isSelected()){
