@@ -12,6 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
 import javax.swing.DefaultListModel;
+import javax.swing.JOptionPane;
 import static jdk.nashorn.internal.objects.NativeMath.round;
 /*import net.sf.jasperreports.engine.JasperCompileManager;
 import net.sf.jasperreports.engine.JasperFillManager;
@@ -50,6 +51,11 @@ public class Handle_inquiries1 extends javax.swing.JPanel {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+     
+     void clear_UI(){
+        jTextField1.setText("");
+        jTextArea1.setText("");   
     }
 
     /**
@@ -245,20 +251,26 @@ public class Handle_inquiries1 extends javax.swing.JPanel {
             Statement s=c.createStatement();
             s.executeUpdate("UPDATE inquiry SET status='"+acceptStatus+"' WHERE casenum='"+caseno+"'");
             s.executeUpdate("UPDATE casedata SET curState='"+curState+"' WHERE casenum='"+caseno+"'");
+            JOptionPane.showMessageDialog(null, "Decision on inquiry was successfully recorded", "Success", JOptionPane.INFORMATION_MESSAGE);
+            receivedInquiryList();   
+            clear_UI();
             
         }catch(Exception e){e.printStackTrace();}
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         String caseno=jList1.getSelectedValue().toString();
-        String negelectStatus="neglected";
+        String acceptStatus="rejected";
         String curState="ceaseAssets";
         
         try {
             Connection c=dbcon.con();
             Statement s=c.createStatement();
-            s.executeUpdate("UPDATE inquiry SET status='"+negelectStatus+"' WHERE casenum='"+caseno+"'");
+            s.executeUpdate("UPDATE inquiry SET status='"+acceptStatus+"' WHERE casenum='"+caseno+"'");
             s.executeUpdate("UPDATE casedata SET curState='"+curState+"' WHERE casenum='"+caseno+"'");
+            JOptionPane.showMessageDialog(null, "Decision on inquiry was successfully recorded", "Success", JOptionPane.INFORMATION_MESSAGE);
+            receivedInquiryList();   
+            clear_UI();
             
         }catch(Exception e){e.printStackTrace();}
     }//GEN-LAST:event_jButton2ActionPerformed
