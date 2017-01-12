@@ -221,14 +221,17 @@ public class Login extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
+     
         username=jTextField1.getText();
         String passwordToHash=jPasswordField1.getText();
         String generatedPassword = null;
-        try {
+        String salt="Random$SaltValue#WithSpecialCharacters12@$@48#%^$*";  //salting value
+        String newP= passwordToHash+salt;
+        try { 
                 // Create MessageDigest instance for MD5
                 MessageDigest md = MessageDigest.getInstance("MD5");
                 //Add password bytes to digest
-                md.update(passwordToHash.getBytes());
+                md.update(newP.getBytes());
                 //Get the hash's bytes 
                 byte[] bytes = md.digest();
                 //This bytes[] has bytes in decimal format;
@@ -239,7 +242,7 @@ public class Login extends javax.swing.JFrame {
                         sb.append(Integer.toString((bytes[i] & 0xff) + 0x100, 16).substring(1));
                 }
                 //Get complete hashed password in hex format
-                generatedPassword = sb.toString();
+                generatedPassword = sb.toString(); //this has the hash of newP
         } 
         catch (NoSuchAlgorithmException e) 
         {
@@ -258,7 +261,7 @@ public class Login extends javax.swing.JFrame {
                     pswd_hash = r.getString("password");
                 }
                 if (pswd_hash.equals(generatedPassword)){
-                    if(pswd_hash.equals("4a7d1ed414474e4033ac29ccb8653d9b")){
+                    if(pswd_hash.equals("b361f68eb4cb99827936646a339306ee")){   //hash of 0000 with salt
                         JOptionPane.showMessageDialog(null, "Please change your password", "Security", JOptionPane.INFORMATION_MESSAGE);
                         new Reset_password_prompt().setVisible(true);
                     }else{
@@ -298,12 +301,14 @@ public class Login extends javax.swing.JFrame {
         if(10==evt.getKeyCode()){
             username=jTextField1.getText();
             String passwordToHash=jPasswordField1.getText();
-            String generatedPassword = null;
+            String generatedPassword = null;   
+            String salt="Random$SaltValue#WithSpecialCharacters12@$@48#%^$*";  //salting value
+            String newP= passwordToHash+salt;
             try {
                     // Create MessageDigest instance for MD5
                     MessageDigest md = MessageDigest.getInstance("MD5");
                     //Add password bytes to digest
-                    md.update(passwordToHash.getBytes());
+                    md.update(newP.getBytes());
                     //Get the hash's bytes 
                     byte[] bytes = md.digest();
                     //This bytes[] has bytes in decimal format;
@@ -334,7 +339,7 @@ public class Login extends javax.swing.JFrame {
                         pswd_hash = r.getString("password");
                     }
                     if (pswd_hash.equals(generatedPassword)){
-                        if(pswd_hash.equals("4a7d1ed414474e4033ac29ccb8653d9b")){
+                        if(pswd_hash.equals("b361f68eb4cb99827936646a339306ee")){    //hash of 0000 with salt
                             JOptionPane.showMessageDialog(null, "Please change your password", "Security", JOptionPane.INFORMATION_MESSAGE);
                             new Reset_password_prompt().setVisible(true);
                     }else{
