@@ -225,7 +225,7 @@ public class Login extends javax.swing.JFrame {
         username=jTextField1.getText();
         String passwordToHash=jPasswordField1.getText();
         String generatedPassword = null;
-        String salt="Random$SaltValue#WithSpecialCharacters12@$@48#%^$*";  //salting value
+        String salt="Random$SaltValue#WithSpecialCharacters12@$@48#%^$*";  //salting value.. now always this string will be appended to the original password n hashed!
         String newP= passwordToHash+salt;
         try { 
                 // Create MessageDigest instance for MD5
