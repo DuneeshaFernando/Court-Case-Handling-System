@@ -241,18 +241,20 @@ public class Reset_password_prompt extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        String userid=jTextField7.getText();
+       String userid=jTextField7.getText();
         String expassword=jPasswordField1.getText();
+        String salt="Random$SaltValue#WithSpecialCharacters12@$@48#%^$*";
+        String expwordwithSalt=expassword+salt;
         String newpassword=jPasswordField2.getText();
         String confirmpassword=jPasswordField3.getText();
         String newpwordHash=null;
-
+        String newpwordwithSalt=newpassword+salt;
         String exhashpword = null;
         try {
             // Create MessageDigest instance for MD5
             MessageDigest md = MessageDigest.getInstance("MD5");
             //Add password bytes to digest
-            md.update(expassword.getBytes());
+            md.update(expwordwithSalt.getBytes());
             //Get the hash's bytes
             byte[] bytes = md.digest();
             //This bytes[] has bytes in decimal format;
@@ -264,6 +266,7 @@ public class Reset_password_prompt extends javax.swing.JFrame {
             }
             //Get complete hashed password in hex format
             exhashpword = sb.toString();
+        
         }
         catch (NoSuchAlgorithmException e)
         {
@@ -285,7 +288,7 @@ public class Reset_password_prompt extends javax.swing.JFrame {
             // Create MessageDigest instance for MD5
             MessageDigest md = MessageDigest.getInstance("MD5");
             //Add password bytes to digest
-            md.update(newpassword.getBytes());
+            md.update(newpwordwithSalt.getBytes());
             //Get the hash's bytes
             byte[] bytes = md.digest();
             //This bytes[] has bytes in decimal format;
