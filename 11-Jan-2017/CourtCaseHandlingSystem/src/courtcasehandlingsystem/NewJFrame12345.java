@@ -121,7 +121,7 @@ public class NewJFrame12345 extends javax.swing.JFrame {
                 }
                 //Get complete hashed password in hex format
                 generatedPassword = sb.toString(); //this has the hash of newP
-                String abc="Dunii,your password with hash is: "+generatedPassword+"   and please check the output window also..";
+                String abc="Dunii,your password with hash is: "+generatedPassword+"   and please check the output window also..From There you can copy the hash n directly update the database.. ";
                 JOptionPane.showMessageDialog(null, abc, "Security", JOptionPane.INFORMATION_MESSAGE);
                 
                 System.out.println(generatedPassword);
