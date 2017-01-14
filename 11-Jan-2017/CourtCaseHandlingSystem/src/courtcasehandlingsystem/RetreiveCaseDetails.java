@@ -1287,6 +1287,9 @@ public class RetreiveCaseDetails extends javax.swing.JPanel {
                     jLabel11.setText(hdate);
                 }
                 
+                if(casenum==""){
+                     JOptionPane.showMessageDialog(null, "Please enter a case number", "Warning", JOptionPane.WARNING_MESSAGE);
+                }
 
             }
 
