@@ -1514,6 +1514,9 @@ public class CaseRegistration extends javax.swing.JPanel {
         }else{        
             jTabbedPane2.setSelectedIndex(2);  
         }
+        if(Integer.parseInt(value) > 1000000){
+            JOptionPane.showMessageDialog(null, "Please enter value less than one million  ", "Error", JOptionPane.ERROR_MESSAGE);
+       }
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
@@ -1825,6 +1828,7 @@ public class CaseRegistration extends javax.swing.JPanel {
         }else{
             JOptionPane.showMessageDialog(null, "Please enter only numbers and '.' to seperate cents", "Error", JOptionPane.ERROR_MESSAGE);
         }
+        
     }//GEN-LAST:event_jTextField9KeyPressed
 
     private void jTextField10KeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField10KeyPressed
