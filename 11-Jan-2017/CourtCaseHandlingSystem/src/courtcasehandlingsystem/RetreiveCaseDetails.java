@@ -1261,6 +1261,10 @@ public class RetreiveCaseDetails extends javax.swing.JPanel {
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         casenum=jTextField1.getText();
+        
+        if(casenum.equals("")){
+           JOptionPane.showMessageDialog(null, "Please enter a case number", "Warning", JOptionPane.WARNING_MESSAGE);
+        }
 
         clear_UI();        
         
@@ -1286,10 +1290,7 @@ public class RetreiveCaseDetails extends javax.swing.JPanel {
                 }else{
                     jLabel11.setText(hdate);
                 }
-                
-                if(casenum==""){
-                     JOptionPane.showMessageDialog(null, "Please enter a case number", "Warning", JOptionPane.WARNING_MESSAGE);
-                }
+                   
 
             }
 
