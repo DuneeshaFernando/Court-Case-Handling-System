@@ -304,24 +304,39 @@ public class Inquiry_process1 extends javax.swing.JPanel {
         String caseNumber=jTextField2.getText();
         String reason=jTextArea1.getText();
         
-        Date inquiry_rec_date=new Date();
+       Date inquiry_rec_date=new Date();
         SimpleDateFormat sdf= new SimpleDateFormat("yyyy-MM-dd");
         String str_rec_date=sdf.format(inquiry_rec_date);
         
         String curState="inquiryMade";
-      
-        try {
-            Connection c=dbcon.con();
-            Statement s=c.createStatement();
-            s.executeUpdate("UPDATE casedata SET status='"+curState+"' WHERE casenum='"+caseNumber+"'");
-            s.executeUpdate("UPDATE inquiry SET inquiryReceiDate='"+str_rec_date+"',reason='"+reason+"' WHERE caseNumber='"+caseNumber+"'");
-            ActivityLog.activity_log(MainInter_subjectClerk.uname,"Inquiry made was recorded",caseNumber);
-            JOptionPane.showMessageDialog(null, "Inquiry was successfully recorded", "Success", JOptionPane.INFORMATION_MESSAGE);
-            clear_UI();
-            pendingInquiryList();
-        }catch(Exception e){
-        e.printStackTrace();
-        }   
+        
+        if(reason.equals("")){
+            
+            JOptionPane.showMessageDialog(null, "Please enter a reason", "Warning", JOptionPane.WARNING_MESSAGE); 
+        
+        
+        }
+       
+        
+        /*Date inquiry_rec_date=new Date();
+        SimpleDateFormat sdf= new SimpleDateFormat("yyyy-MM-dd");
+        String str_rec_date=sdf.format(inquiry_rec_date);
+        
+        String curState="inquiryMade";*/
+        else{
+            try {
+                Connection c=dbcon.con();
+                Statement s=c.createStatement();
+                s.executeUpdate("UPDATE casedata SET status='"+curState+"' WHERE casenum='"+caseNumber+"'");
+                s.executeUpdate("UPDATE inquiry SET inquiryReceiDate='"+str_rec_date+"',reason='"+reason+"' WHERE caseNumber='"+caseNumber+"'");
+                JOptionPane.showMessageDialog(null, "Inquiry was successfully recorded", "Success", JOptionPane.INFORMATION_MESSAGE);
+                ActivityLog.activity_log(MainInter_subjectClerk.uname,"Inquiry made was recorded",caseNumber);
+                clear_UI();
+                pendingInquiryList();
+            }catch(Exception e){
+                e.printStackTrace();
+            }   
+        }
     }//GEN-LAST:event_jButton1ActionPerformed
 
 
